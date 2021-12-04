@@ -1,0 +1,20 @@
+baseURL = "https://en.maku.blog/"
+relativeurls = true
+enableRobotsTXT = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+languageCode = "ja-jp"
+title = "まくまく英語ノート"
+themesDir = "../hugo_themes"
+theme = "maku"
+googleAnalytics = "UA-63069513-3"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  facebookAppId = "1572235596285254"
+  Author = "まく"
+  AmazonId = "maku04-22"
+  CustomSearchId = "partner-pub-6317852277883092:1454758106"
+

@@ -1,0 +1,17 @@
+<div style="margin-left: 1em; padding: 0em; border-left: solid 1px #060; padding-left: 0.8em;">
+  <div style="color: #060;">
+    {{- .Get `en` | markdownify -}}
+    {{- with $.Get `cite` -}}
+      <span style="color: #c2c0b9; font-style:normal; font-size:0.7em; padding-left:1em;">─ {{ . }}</span>
+    {{- end -}}
+    {{- with .Get `date` -}}
+      <span style="color: #c2c0b9; font-style:normal; font-size:0.7em;">{{ . }}</span>
+    {{- end -}}
+  </div>
+  {{- with .Get `jp` -}}
+    <div style="color: #05c">{{ . | markdownify }}</div>
+  {{- end -}}
+  {{- with .Get `note` -}}
+    <div style="color: #666; font-size: smaller; padding: 1em;">{{ . | markdownify }}</div>
+  {{- end -}}
+</div>
