@@ -31,14 +31,6 @@ tags: ["シーン別"]
 {{% ex en="move the meeting up to 11 p.m." jp="11時に前倒し" %}}
 {{% ex en="move the meeting up an hour" jp="1時間前倒し" %}}
 
-
-会議・ミーティング・打ち合わせ
-----
-{{% ex en="Let's get started." jp="はじめましょう。" %}}
-{{% ex en="That's it for today." jp="今日はこれにて終了。" %}}
-{{% ex en="That's all for today." jp="今日はこれにて終了。" %}}
-{{% ex en="Today's agenda is as follows." jp="本日の議題は以下の通りです。" %}}
-
 引き受ける
 ----
 {{% ex en="I'll see what I can do (for you)." jp="なんとか考えて見ます。前向きに検討します。" %}}

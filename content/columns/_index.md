@@ -1,5 +1,6 @@
 ---
-title: "コラム・雑多メモ"
+title: "英語コラム"
+linkTitle: "コラム"
 url: "/p/xihndus"
 ---
 

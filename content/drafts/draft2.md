@@ -11,7 +11,6 @@ Let's hope ~ （～を願おう）
 - the men in charge -- 関係者
 
 
-
 will do as ~（〜として役に立つ）
 ----
 
@@ -57,7 +56,6 @@ will have to do with ~（〜でやっていかなければならない、〜で�
 {{< ex jp="行かない方がいいよ<BR>（悪いことが起こるから）" en="You had better not go." >}}
 {{< ex jp="私におまかせください" en="Leave it to me." >}}
 {{< ex jp="ごめん、聞き逃した。" en="Sorry, I missed that." >}}
-{{< ex jp="随分高いようですけど…" en="That seems like a lot." >}}
 {{< ex jp="お名前を頂けますか" en="May I have your name, please?" >}}
 {{< ex jp="どっちでもいいです" en="It doesn't really matter." >}}
 {{< ex jp="できたらいいんだけど、もう行かなきゃ。" en="I wish I could, but I have to go now." >}}

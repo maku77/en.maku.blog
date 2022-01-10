@@ -1,5 +1,5 @@
 ---
-title: "数値 (Number) に関する英語"
+title: "シーン別表現集「数値」"
 url: "/p/9r8ewfn"
 tags: ["シーン別"]
 ---

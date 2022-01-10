@@ -1,5 +1,6 @@
 ---
-title: "言い回し (Phrase)"
+title: "慣用句（イディオム）とフレーズ集"
+title: "慣用句とフレーズ集"
 url: "/p/dmkcqku"
 ---
 

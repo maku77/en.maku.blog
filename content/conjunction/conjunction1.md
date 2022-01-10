@@ -1,5 +1,5 @@
 ---
-title: "★1. 文頭のつなぎ表現"
+title: "1. 文頭のつなぎ表現"
 url: "/p/tpdgrcu"
 ---
 
@@ -21,11 +21,13 @@ url: "/p/tpdgrcu"
 - case の使用例(1) In cases where S+V, ... （S+V の場合には、…）
 - case の使用例(2) In some cases, ... （場合によっては、…）
 
+
 簡単に言うと、手短に言うと
 ----
 {{% ex en="In a nutshel," jp="一言でいえば、" %}}
 {{% ex en="In the simplest terms," jp="簡単に言うと、" %}}
 {{% ex en="To be brief," jp="一言でいえば、" %}}
+
 
 「～以外」は、except for ~ か、except ~ か
 ----
@@ -157,5 +159,14 @@ Even with ~, （～を持ってしても、）
 ----
 {{< ex en="**Even with** this improvement," jp="この改善**をもってしても、**" >}}
 {{< ex en="**Even with** the use of ...," jp="…を使用**したとしても、**" >}}
+
+
+as you might expect （ご察しの通り、ご推察の通り、案の定）
+----
+
+文頭でも文末でも使えます。
+
+{{% ex en="The state api managed the state of the bot **as you might expect**; things like the user data, the conversation data, the dialog data etc." cite="stack overflow" %}}
+{{% ex en="**As you might expect,** the count() method returns the number of occurrences of a specific value in a list." jp="**もうお分かりだと思うが、**count()メソッドは指定された値がリストの中に何回出現するかを数える。" cite="Dive into Python 3" %}}
 
 
