@@ -1,8 +1,7 @@
 ---
 title: "今日の英語フレーズ 016"
 url: "/p/8s5fq2b"
-date: "2022-01-11"
-draft: true
+date: "2022-02-21"
 ---
 
 {{% ex en="__It won't necessarily be__ different for each page **but it CAN**." jp="各ページで異なっている __という必要はないが、そうすることはできる__。" %}}
@@ -18,5 +17,11 @@ draft: true
 {{% ex en="spot the trap" jp="罠を見抜く" cite="spot には「目星をつける」という意味があります。" %}}
 {{% ex en="spot the winner in a race" jp="競馬で勝ち馬を言い当てる。" cite="spot には「目星をつける」という意味があります。" %}}
 
-{{% ex en="This __goes way beyond__ boxing." jp="これはもうボクシングじゃないわ。" note="by 白木葉子『あしたのジョー』より" %}}
+{{% ex en="No, I'm against it." jp="私は反対です。" %}}
+
+{{% ex en="I'm not sure about that." jp="それはどうでしょう。" note="軽く反対をほのめかす場合に使えます。" %}}
+
+{{% ex en="That's not the case." jp="それは事実じゃないです。" %}}
+
+{{% ex en="That's not always the case." jp="必ずしもそうではないです。" %}}
 
