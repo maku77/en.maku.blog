@@ -1,10 +1,14 @@
 ---
 title: "今日の英語フレーズ 017"
-url: "/p/2mx9is3"
-date: "2022-01-22"
+url: "/p/69wapz9"
+date: "2022-02-21"
 draft: true
 ---
 
+{{% ex en="No, I'm against it." jp="私は反対です。" %}}
+{{% ex en="I'm not sure about that." jp="それはどうでしょう。" note="軽く反対をほのめかす場合に使えます。" %}}
+{{% ex en="That's not the case." jp="それは事実じゃないです。" %}}
+{{% ex en="That's not always the case." jp="必ずしもそうではないです。" %}}
 {{% ex en="One characteristic of 〜 is ..." jp="〜 のひとつの特徴は ... です。" %}}
 {{% ex en="There's no rush. / Take your time." jp="急ぐ必要はありません／あわてる必要はありません" %}}
 {{% ex en="Lately you've been getting a little lazy." jp="最近怠けてきているんじゃない？" %}}
@@ -45,3 +49,4 @@ draft: true
 - これらのミスにつけ込む
     - take advantage of these mistakes
 - 音を出す make a sound
+

@@ -1,7 +1,7 @@
 ---
 title: "今日の英語フレーズ 016"
 url: "/p/8s5fq2b"
-date: "2022-01-11"
+date: "2022-02-21"
 ---
 
 {{% ex en="Do you know something?" jp="何か心当たりでも？" %}}
