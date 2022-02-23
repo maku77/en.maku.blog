@@ -17,11 +17,13 @@ date: "2017-10-12"
     * `conjunction1` ... 文頭表現
     * `conjunction2` ... 文中表現
     * `conjunction3` ... 文末表現
-* __`idiom_and_phrase/`__ イディオム（慣用句） or フレーズ
+* __`idiom_and_phrase/`__ 動詞や名詞以外の、イディオム（慣用句） or フレーズ
     * Idiom（慣用句） ... a piece of cake や baker's dozen など特殊な表現（用例が2つになるまでは `peanuts` へ）
     * Phrase（フレーズ） ... ほぼ何でもありだけど、文章の一部を入れ替えて使いまわせそうな文章を中心に
     * `4-words` ... 単語以下の丸暗記フレーズ
-* __`vocabulary/`__ 語彙力をつけるため単語集（主に __動詞__ と __名詞__）
+* __`vocabulary/`__ 語彙力をつけるため単語集
+    * `verb` ... 動詞
+    * `noun` ... 名詞
 * __`peanuts/`__ 今日の英語の勉強
     * 10個ずつくらいどんどん突っ込んで、用例が2つ以上になったら `idiom_and_phrase` に移す
 * __`columns/`__ コラム

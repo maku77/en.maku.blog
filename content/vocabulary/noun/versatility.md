@@ -1,7 +1,6 @@
 ---
 title: "versatility（汎用性、多機能性、多様性、多才）"
 url: "/p/7hqi6qk"
-linkTitle: "versatility"
 ---
 
 発音

@@ -7,12 +7,10 @@ url: "/p/dmkcqku"
 {{% ex en="The thing is ..." jp="つまり...、 ようするに..." %}}
 {{% ex jp="～の心配をしました。" en="I was concerned about ~" %}}
 {{% ex jp="～のことは**あまり**知りません。" en="I don't know **much** about him." %}}
-{{% ex jp="**あまり**時間がありません。" en="I don't have **much** time." %}}
 
 {{< ex en="See ~ if you are unfamiliar with how S+V" jp="もしどのように S+V するかにあまり馴染みがないのであれば、～を参照してください。" >}}
 {{< ex en="not to confused with ~" jp="～と混同しないでください" >}}
 {{< ex jp="詳細はまだはっきりとしないが、～" en="The details are vague for now, but ~" >}}
-{{< ex jp="～はまだ開発中です" en="~ is still in development" >}}
 {{% ex jp="S+V ということは知ってた？" en="Did you know that S+V" %}}
 {{% ex jp="まるで S+V かのように言うね。" en="As is S+V" %}}
 {{% ex jp="何年も後に分かったんですけど。" en="I found out many years later." %}}
@@ -99,13 +97,15 @@ With the rise of ~ （～の台頭により、～の発展により、～の発�
 {{< ex en="With the rise of the Internet," jp="インターネットの発達により、" >}}
 
 
-This can help Ving （～するのに役に立ちます）
-----
-{{< ex en="**This can help in** pitch**ing** a project to investors (for a skyscraper, bridge, library, etc...) or in selling a home before it is build." jp="これは投資家にピッチするときや、建築前の家を売るときに役に立ちます。" cite="The Beginner's Guide to Blender" >}}
-
-
 I thought you meant ~（～って意味かと思った）
 ----
 
 {{< ex en="**I thought you meant** a couple of hours. It's been two days." jp="2、3時間で終わる**って意味かと思ったんだけど**、もう2日目だぜ。" cite="[映画] The Darwin Awards" >}}
+
+
+〜の間隔で
+----
+{{% ex en="at frequent intervals" jp="短い間隔で" %}}
+{{% ex en="at correct intervals" jp="一定の間隔で" %}}
+{{% ex en="at fixed intervals" jp="定期的に" %}}
 

@@ -22,6 +22,16 @@ url: "/p/tpdgrcu"
 - case の使用例(2) In some cases, ... （場合によっては、…）
 
 
+具体的には、
+----
+
+- Specifically,
+- Concretely,
+- Specifically speaking,
+- Concretely speaking,
+- To put it specifically,
+- To put it concretely,
+
 簡単に言うと、手短に言うと
 ----
 {{% ex en="In a nutshel," jp="一言でいえば、" %}}
@@ -44,6 +54,7 @@ url: "/p/tpdgrcu"
 
 {{% ex en="I would buy it except (that) it is too expensive." jp="そんなに高くなければ買うんだけどなぁ。" %}}
 
+
 As a rule, （一般に、通常、）
 ----
 {{% ex en="**As a rule,** use a sequence whenever you have a chain of operations on a large collection." jp="**通常、**大きなコレクションに対するチェーン操作があるときはいつでもシーケンスを使ってください。" cite="Kotlin in Action" %}}
@@ -55,6 +66,7 @@ Usually と同じ感じで使えるかな？
 Along the way, （道中で、その進行の途中で、）
 ----
 {{< ex en="Along the way, we'll give you an example of declaring enums in Kotlin and discuss the concept of smart casts." cite="Kotlin in Action" >}}
+
 
 With ~, （～においては、）
 ----
@@ -168,5 +180,4 @@ as you might expect （ご察しの通り、ご推察の通り、案の定）
 
 {{% ex en="The state api managed the state of the bot **as you might expect**; things like the user data, the conversation data, the dialog data etc." cite="stack overflow" %}}
 {{% ex en="**As you might expect,** the count() method returns the number of occurrences of a specific value in a list." jp="**もうお分かりだと思うが、**count()メソッドは指定された値がリストの中に何回出現するかを数える。" cite="Dive into Python 3" %}}
-
 

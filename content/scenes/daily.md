@@ -22,8 +22,15 @@ That'll be the day! という表現には、「その日が来るのが楽しみ
 Any ideas for ~ ?
 ----
 
-{{< ex jp="昼食に食べたいものある？" en="**Any ideas for** lunch?" >}}
-{{< ex jp="夏休みのアイデアある？" en="**Any ideas for** the summer vacation?" >}}
-{{< ex jp="任せるよ。" en="I'll leave it up to you." >}}
+{{% ex jp="昼食に食べたいものある？" en="**Any ideas for** lunch?" %}}
+{{% ex jp="夏休みのアイデアある？" en="**Any ideas for** the summer vacation?" %}}
+{{% ex jp="任せるよ。" en="I'll leave it up to you." %}}
 
+
+例を挙げて欲しいとき
+----
+
+{{% ex en="What would be an example?" jp="どんな例がありますか？" %}}
+{{% ex en="What would be an example of when you can ~?" jp="〜できる場合、どんな例がありますか？" %}}
+{{% ex en="Give me an example of when ~." jp="〜の場合の例を挙げてください。" %}}
 

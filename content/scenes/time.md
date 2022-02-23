@@ -5,12 +5,33 @@ date: "2021-10-21"
 tags: ["シーン別"]
 ---
 
-過去の時間
+時刻や時間帯を示す
 ----
 
+- at five o'clock ... 5 時に
+- at 7:30 ... 7 時 30 分に
 - the day before yesterday ... おととい
-- a week ago ... 先週
+- last week ... 先週
+- a week ago ... 1 週間前（= 7 日前）
 - a week ago today ... 先週の今日
+- next week ... 来週
+- at noon ... 正午に
+- at night ... 夜に
+- at midnight ... 午前 0 時に
+- in the morning ... 午前中に
+- this morning ... 今朝
+- in the afternoon ... 午後に
+- this afternoon ... 今日の午後に
+- in the evening ... 晩に
+- on Saturday ... 土曜日に
+- last Wednesday ... この前の水曜日に
+- on the first of January ... 1 月 1 日に
+- on the night of December 31 ... 12 月 31 日の夜に
+- on March 20 .. 3 月 20 日に
+- on Sunday morning ... 日曜の午前に
+- in May ... 5 月に
+- in summer ... 夏に
+- in the 20th century ... 19 世紀に
 
 
 （時間を）費やす (devote)
