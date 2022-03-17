@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./css/main.css">
+    <title>まくまく英英単語クイズ</title>
+    <meta name="description" content="英語の説明を読んで、英単語を当てるクイズです。英語でしゃべらナイトで人気のあった、パックン英検のようなゲームをしながら、英語で英単語を覚えられます。">
+    <meta name=”keywords” content=”英単語クイズ,英英,英単語学習,英語学習,英単語の勉強">
+</head>
+<body>
+  <h2>まくまく英英単語クイズ</h2>
+  <div class="problemBox">
+    <div id="problem"></div>
+    <form id="inputForm" action="./">
+      <label id="answerLabel">単語を当てよう！</label>
+      <input type="text" id="userInput" autocomplete="off" autofocus>
+      <span id="judge"></span>
+    </form>
+  </div>
+  <div id="scoreBox">
+    覚えた単語数: <span id="score">0/0</span>
+  </div>
+
+  <script src="js/lib/jquery.min.js"></script>
+  <script src="js/main.js"></script>
+
+  <center>
+<!-- Rakuten Widget FROM HERE --><script type="text/javascript">rakuten_design="slide";rakuten_affiliateId="1239b074.74af6526.1239b075.bc72ef6e";rakuten_items="ranking";rakuten_genreId="208884";rakuten_size="600x200";rakuten_target="_blank";rakuten_theme="gray";rakuten_border="off";rakuten_auto_mode="on";rakuten_genre_title="off";rakuten_recommend="off";rakuten_bgColor="111111";</script><script type="text/javascript" src="http://xml.affiliate.rakuten.co.jp/widget/js/rakuten_widget.js"></script><!-- Rakuten Widget TO HERE -->
+  </center>
+
+  <div class="description">
+    英語の説明を読んで、英単語を当てるクイズです。英語でしゃべらナイトで人気のあった、パックン英検のようなゲームをしながら、英語で英単語を覚えられます。単語を入力して、Enter キーを押してください。2 回まで入力することができます。1 回間違えると、問題によってはヒントが表示されます。
+  </div>
+
+  <div class="description">
+    ここで出題される英単語は <a href="http://learningenglish.voanews.com/">VOA Special English</a> を聞き取るために必要とされている約 1500 の英単語です。
+  </div>
+</body>
+</html>
