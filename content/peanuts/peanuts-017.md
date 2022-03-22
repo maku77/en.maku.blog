@@ -14,7 +14,8 @@ draft: true
 {{% ex en="Lately you've been getting a little lazy." jp="最近怠けてきているんじゃない？" %}}
 {{% ex en="prepare in advance / prepare ahead of time" jp="前もって準備する" %}}
 
-- 誰から始める？ Who goes first?
+- 誰から始める？
+    - Who goes first?
 - 私はいいわ。
     - Count me out.
 - だから、きっとこの場所の名前''は想像がつくよね''。
