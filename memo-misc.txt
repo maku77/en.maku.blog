@@ -1,0 +1,303 @@
+! Sentence
+これを日本へ送ると、料金はいくらかかりますか？
+What is the charge if I have it delevered to Japan?
+
+この包みは大きすぎてポストには入らないよ。
+This package is too big to fit in the mailbox.
+
+いつでもお電話ください。フリーダイアルです。
+Just call us any time. It is a toll-free number.
+
+歩いていける距離にあるよ。
+It's within walking distance.
+
+水族館はここから歩いて10分です。
+The aquarium is a ten-minute walk from here.
+
+鼻水が出てるよ。
+Your nose is running.
+
+この会議を始める前に、皆さんに誰が誰なのかを知ってもらいたいと思います。ですから、知り合いになることから始めましょう。
+Before we start this meeting, I'd like to make sure that everyone knows who is who. So let's start by getting acquainted.
+
+小さなことでくよくよしないで。
+Don't sweat the small stuff.
+
+お先真っ暗。
+There's no light at the end of the tunnel.
+
+知らない方がいいわよ。
+You're better off not knowing.
+
+彼と腹を割って話したんだ。
+I had a heart-to-heart talk with him.
+
+
+! Word
+忘れられない
+unforgettable
+これって奇妙で、忘れられない映画だわ。
+This is a strange, unforgettable movie.
+
+-- に分類される
+fall into --
+Most of the applications you create in Android will fall into one of the following categories:
+
+着信拒否、通話スクリーニング
+call screening
+
+一時的にやむ、一時的に止まる
+intermittent
+その庭園には振ったりやんだりのにわか雨ではなく、降り続く雨が必要です。
+The garden needs steady rain, not intermittent showers.
+
+単純（大雑把に）に -- に分類する（決めつける）
+pigeonhole into --
+Complex applications are difficult to pigeonhole into a single category and usually include elements of each of these types.
+
+あっさりと、難なく、快く
+readily
+その本は容易に手に入る。
+The book is readily available.
+喜んでお手伝いしましょう。
+I would readily help you. (= I'd be  ready to help you.)
+彼女はあっさりと私の提案に同意した。
+She readily fell in with my proposal.
+
+
+はっきりと、明白に
+distinctly
+はっきりと話す
+speak distinktly
+10時までに家に帰るようにとあなたに言ったことは、はっきりと覚えているわよ。
+I distinctly remember telling you to be home by 10 o'clock.
+
+
+関税、携帯電話会社からの料金表
+tariff
+Data transfer can sometimes incur an additional tariff from your service provider.
+
+
+高くつく、費用のかかる
+costly
+ただより高いものはない。
+There is nothing more costly than something got for nothing.
+In some cases (such as with GPS and data transfer) the user can toggle Android settings to disable a potentially costly costly action.
+
+繰り返しの（多い）
+repetitive
+同じ料理の繰り返しになってしまう。
+The food gets repetitive.
+Caching data and GPS results to eliminate redundant or repetitive lookups.
+
+サービス料
+charges for services
+Charges for services vary between service providers and contract plans.
+
+一貫性を維持する
+maintain consistency
+maintain a consistent look and feel
+
+!句 (Phrase)
+時間とともに、やがて
+コンデンサは時間がたつと電荷を失う。
+Capacitors lose their charge over time.
+"interpolator" sets how the speed of this effect varies over time.
+
+とりわけ
+among other things
+とりわけ、私たちはあなたが取り組んだあのプロジェクトに特別な興味を持っています。
+Among other things, we have a particular interest in that project you worked on.
+
+-- に関わらず
+no matter what --
+No matter what your development environment, it's always good practice to keep non-code resources like images and string constants external to your code.
+
+最後の手段として
+as a last resort
+There are generally very few of these processes, and they will be killed only as a last resort.
+
+特に興味深いのは -- です。
+Of particular interest is --
+Of particular interest is the Application tab, shown in Figure 3-2.
+
+高くつく
+come at a price
+この方法は高くつくことが多い。
+This method can often come at a price.
+
+実用可能な限り低く
+as low as practicable
+Keeping the refresh/update rates for data transfers ( and location lookups) as low as practicable.
+
+
+どんな場合でも
+in any case
+In any case, it's important to minimize interaction costs by doing the following:
+
+
+! 伝染する病気には catch、それ以外の病気には get を使う
+[2008-09-30]
+* catch は伝染する病気にしか使えない
+** I caught a cold.
+* get はどのような病期にも使える
+** He got cancer. （ガン）※ガンで死んだ、は He died of cancer.
+** He got food poisoning. （食中毒）
+** He got malaria. （マラリア）※マラリアは伝染病なので caught でも可。
+
+
+! 否定形での or
+[2008-09-30]
+* I don't smoke or drink. （タバコもお酒もやりません）
+
+
+! 「寄り道せずに家に帰りました」
+[2008-09-30]
+* I went straight home.
+
+
+! 「（家に）帰るよ」
+[2008-09-30]
+* 家にいる母親に「帰るよ」と言うとき -- I'm coming home.
+* 家にいる母親が「何時に帰ってくるの？」と言うとき -- What time are you coming home?
+* 今一緒にいる友達に「帰るよ」と言うとき -- I'm going home.
+
+
+! 「何時に家に着いたの？」
+[2008-09-30]
+* What time did you get home last night?
+
+go home を使ってしまうと、「何時に家に向かったの？」と「何時に家に到着したの？」のどちらの意味にもとれてしまうので曖昧になる。
+
+
+! bring/take の使い分けは、come/go の使い分けと同じ
+[2008-09-30]
+関係はこんな感じ。
+
+ come（人）≒ bring（人＋物）
+   go（人）≒  take（人＋物）
+
+話し手、あるいは聞き手の現在いる場所へ物を持ってくる場合は bring を使う。
+
+* I want to bring my family here. （ここに家族を連れて来たい）
+* I will bring you a dessert soon. （（電話で）デザート持って行くよ）
+* Please bring me a glass of water.
+* Please bring something to drink! 
+* Please bring your girl friend with you．
+* My friend ask me to bring flowers.
+* I forgot to bring my wallet. （財布を持ってくるのを忘れちゃった）
+* お店にお酒を持ち込める表示の BYO (bring your own)
+* Thank you so much for bringing me here. (ここへ連れて来てくれてありがとう)
+
+話し手、あるいは聞き手の現在いる場所以外の場所へ物を持って行く場合
+（第三者のいる場所へ物を持っていく場合など）は take を使う。
+
+* I want to take my family there. （あそこに家族を連れて行きたい）
+* Don't forget to take that letter to the post office.
+* Don't forget to take your umbrella when you leave. 
+* My sisiter took me to the statoin.　
+* お店から物を持っていく take (out)
+* Will this road take me to Shibuya? (この道を行けば渋谷に行けますか)
+* Please take me with you. （一緒に連れていってください）
+
+話し手の現在位置が移動するときに、誰かに「〜を持ってきて」という場合は bring を使う。「持って行く」ではなく、自分が移動した位置に「持って来て」と考えればよい。
+* Let's go to the supermarket. Don't forget to bring your wallet!
+
+例外として、American English では、聞き手と物が同時に移動するときに bring を使ったりする。American English は結構 take/bring がごちゃごちゃになっているっぽい。
+* You should bring your camera when you go to Kyoto. 
+
+
+! be looking forward to の後ろは N でも Ving でもよい
+[2008-09-30]
+* I'm looking forward to Saturday.
+* I'm looking forward to my day off.
+* I'm looking forward to going to Mexico.
+* I'm looking forward to seeing my friends at the weekend.
+
+「楽しみにしていてね」と言いたい時は、
+* I think you will like it.
+* It's going to be great!
+
+from 英会話なるほど納得！メモ・ランダム
+
+
+! メールで添付ファイルを送るときの言い回し
+[2008-09-30]
+* I have attached a file with my resume and photograph.
+* I am sending you a picture of me and my family at Tokyo Disneyland.
+* Please find attached my resume and a recent photograph.
+
+封筒に手紙と一緒に何かを入れるなら、
+* Please find enclosed ...
+
+from 英会話なるほど納得！メモ・ランダム
+
+
+! ちょっと言いづらいことをいいたいとき
+[2008-09-30]
+* I'm afraid I won't be able to come to the party.
+
+from 英会話なるほど納得！メモ・ランダム
+
+
+! enough の位置
+[2008-09-30]
+* 名詞の前
+** enough books
+** enough money
+** enough water
+* 形容詞の後ろ
+** big enough
+** tall enough
+** soft enough
+
+enough は否定文で使うことが多い。
+* There is not enough room [space] in my closet for all my clothes.
+
+「ギリギリ足りる」は、 just enough room を使う。
+* My apartment is quite small, but there is just enough room for me and my sister.
+
+from 英会話なるほど納得！メモ・ランダム
+
+
+! 「どうして〜なの？」と聞かれたときに「なんとなく」と答えたいとき
+[2008-09-30]
+* No special reason.
+* I just felt like it.
+
+
+! it と that の使い分け
+[2008-09-30]
+最初にその物事を言い出したのが自分だったら it を使うことが多く、相手が言い出したことだったら that を使うことが多い。
+例えば、人の発言に対しては that を使って That's nice! という。
+何かの質問の答えには必ず it を使う。
+Is that your brother? No, it isn't.
+
+from 英会話なるほど納得！メモ・ランダム
+
+
+! 「それは残念です」と言いたいとき
+[2008-09-30]
+A: Are you coming to the beach on Saturday?
+B: I can't. I have to work.
+A: Oh, that's a shame.
+
+from 英会話なるほど納得！メモ・ランダム
+
+
+! 「〜を試して見ましょう」の see
+[2009-02-01]
+* Let's see who gets to the goal faster. （どっちが先にゴールするかな？）
+* I'll see what I can do. （まぁやってみましょう）
+* Let's see. （どれどれ（一人でも使う））
+* We'll see. （さぁどうだろう）
+* You'll see. （ぎゃふんと言わせてやる）
+
+参考: NHK「新感覚☆わかる使える英文法」
+
+
+! 省略形
+[2009-01-31]
+- What cha gonna do?
+-- What are you going to do? （どうするの？）
+
