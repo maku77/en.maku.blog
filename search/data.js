@@ -2,8 +2,32 @@ var data = [
 {
 url: "/p/5p2bkv6/",
 title: "英語の勉強メモ（今日の英語フレーズ）",
-date: "2022-02-21T00:00:00Z",
+date: "2022-08-24T00:00:00Z",
 body: "英語の勉強メモ（今日の英語フレーズ）"
+},
+{
+url: "/p/ptpw8i2/",
+title: "今日の英語フレーズ 017",
+date: "2022-08-24T00:00:00Z",
+body: "今日の英語フレーズ 017 No, I\u0026rsquo;m against it.私は反対です。 I\u0026rsquo;m not sure about that.それはどうでしょう。軽く反対をほのめかす場合に使えます。 That\u0026rsquo;s not the case.それは事実じゃないです。 That\u0026rsquo;s not always the case.必ずしもそうではないです。 One characteristic of 〜 is \u0026hellip;〜 のひとつの特徴は \u0026hellip; です。 There\u0026rsquo;s no rush. / Take your time.急ぐ必要はありません／あわてる必要はありません Lately you\u0026rsquo;ve been getting a little lazy.最近怠けてきているんじゃない？ prepare in advance / prepare ahead of time前もって準備する Who goes first?誰から始める？ Count me out.私はいいわ。"
+},
+{
+url: "/p/vm6it5f/",
+title: "英語の使い分けメモ",
+date: "2022-08-24T00:00:00Z",
+body: "英語の使い分けメモ 似た英単語の意味の違いや、どのように使い分けるかのメモです。"
+},
+{
+url: "/p/73cuipx/",
+title: "英語使い分け: hear と listen to の違い",
+date: "2022-08-24T00:00:00Z",
+body: "英語使い分け: hear と listen to の違い hear と listen to には次のような違いがあります。 hear \u0026hellip; 自然に聞こえている（状態） listen to \u0026hellip; 自然の意志で聞く（動作） Can you hear me?聞こえていますか？ Do you hear me?聞いてるの？これは目上の人が「ちゃんと聞け！」という感じがあるのであまり使わない方がよい Listen to me.聞いてください。 参考リンク see と look at の違い"
+},
+{
+url: "/p/fg7o34g/",
+title: "英語使い分け: see と look at の違い",
+date: "2022-08-24T00:00:00Z",
+body: "英語使い分け: see と look at の違い see と look at には次のような違いがあります。 see \u0026hellip; 自然に見えている（状態） look at \u0026hellip; 自分の意志で見る（動作） What do you see?何が見えますか？ What are you looking at?何を見ているのですか？ 両方とも「見る」と訳すと混乱してしまいますが、see は「見えている」、look at は「見る」というように訳せば間違えることはないと思います。 参考リンク hear と listen to の違い"
 },
 {
 url: "/p/8s5fq2b/",
@@ -79,15 +103,9 @@ body: "文法"
 },
 {
 url: "/p/ctsndbd/",
-title: "Shop と Store の違い",
+title: "英語使い分け: shop と store の違い",
 date: "2021-11-10T00:00:00Z",
-body: "Shop と Store の違い shop \u0026hellip; その店で作ったり、加工している専門店。「仕事場」や「職場」という意味でも使う。 store \u0026hellip; いろいろな商品を売るだけの店。「蓄える」という意味でも使う。 参考: 『こあら式 英語のニュアンス図鑑』"
-},
-{
-url: "/p/xihndus/",
-title: "英語コラム",
-date: "2021-11-10T00:00:00Z",
-body: "英語コラム"
+body: "英語使い分け: shop と store の違い shop \u0026hellip; その店で作ったり、加工している専門店。「仕事場」や「職場」という意味でも使う。 store \u0026hellip; いろいろな商品を売るだけの店。「蓄える」という意味でも使う。 参考: 『こあら式 英語のニュアンス図鑑』"
 },
 {
 url: "/p/ubiqw4a/",
@@ -103,9 +121,9 @@ body: "シーン別表現集「時間・日付・時刻」 時刻や時間帯を
 },
 {
 url: "/p/ibumx9i/",
-title: "wake up と wake you up の違い",
+title: "英語使い分け: wake up と wake you up の違い",
 date: "2021-08-11T00:00:00Z",
-body: "wake up と wake you up の違い wake up の wake は自動詞なので「自分が起きる」という意味になります。 I woke up early today.私は今日早起きしました。 wake you up の wake は他動詞なので「あなたを起こす」という意味になります。 I\u0026rsquo;ll wake you up in the morning.朝起こしてあげます。"
+body: "英語使い分け: wake up と wake you up の違い wake up の wake は自動詞なので「自分が起きる」という意味になります。 I woke up early today.私は今日早起きしました。 wake you up の wake は他動詞なので「あなたを起こす」という意味になります。 I\u0026rsquo;ll wake you up in the morning.朝起こしてあげます。"
 },
 {
 url: "/p/vtq3q9h/",
@@ -169,9 +187,9 @@ body: "今日の英語フレーズ 005 What do you think it means?どういう�
 },
 {
 url: "/p/sdp2bmv/",
-title: "使い分け: agree with と agree to の違い",
+title: "英語使い分け: agree with と agree to の違い",
 date: "2020-01-22T00:00:00Z",
-body: "使い分け: agree with と agree to の違い agree with も agree to も「〜に賛成する」という意味がありますが、agree to の方は、しぶしぶ同意するという感じになります。 喜んで賛成するのであれば、agree with の方を使いましょう。 I agree to that.仕方ない、それに同意します。 I agree with you.私はあなたの意見に賛成です。 ちなみに、agree to の後ろには「人」を置くことはできません。"
+body: "英語使い分け: agree with と agree to の違い agree with も agree to も「〜に賛成する」という意味がありますが、agree to の方は、しぶしぶ同意するという感じになります。 喜んで賛成するのであれば、agree with の方を使いましょう。 I agree to that.仕方ない、それに同意します。 I agree with you.私はあなたの意見に賛成です。 ちなみに、agree to の後ろには「人」を置くことはできません。"
 },
 {
 url: "/p/4k5hs4e/",
@@ -330,6 +348,12 @@ date: "2018-03-25T00:00:00Z",
 body: "お願いするとき、誘うときの Do you want to ~ Hapa 英会話さん \u0026ldquo;「Want to」を「〜したい」と覚えてしまうと・・・【#58】\u0026quot; Do you want to ~ （〜してくれない？／〜しない？） 同僚などにカジュアルに何かお願いするとき、誘うときには Do you want to ~ を使うといいみたい（Would you like to よりもくだけた感じで使える）。 確かにこの使い方はよく聞くけど、日本人としては感覚を掴めてない人が多そう。 職場に海外の人がいるときには、さらっと使えそうな表現ですね。 Do you want to get John? I\u0026rsquo;ll get Peter.ジョンさんを迎えに行ってくれない？私はピーターを迎えに行くから。 Do you want to order the beers while I find us a table?私が席を探している間にビールを注文してくれない？ Hey! Do you want to hang out tonight?ねぇ、今夜遊ばない？ Do you want to grab a beer after work?仕事の後にビールでも飲みに行かない？ Do you want me to ~ （私が〜しよっか？） 自分が「何かしましょうか」と提案するときの表現で、Would you like me to や、Should/Shall I よりもカジュアルに使える表現。 Do you want me to order the pizza?私がピザ注文しようか？ Do you want me to make a reservation?私が予約入れましょうか？ Do you want me to help you?手伝おうか？ Do you want me to drop you off at the station?駅まで送ろうか？ ネイティブは Do を省略することがよくある。 You want me to order the pizza?私がピザ注文しようか？"
 },
 {
+url: "/p/xihndus/",
+title: "英語コラム",
+date: "2018-03-25T00:00:00Z",
+body: "英語コラム"
+},
+{
 url: "/p/ps62mpf/",
 title: "「禁止」の表現",
 date: "2018-02-12T00:00:00Z",
@@ -355,15 +379,15 @@ body: "think（考える） 〜についてじっくり考える think through ~
 },
 {
 url: "/p/v8p6epw/",
-title: "理由を表す because、since、now that の使い分け",
+title: "英語使い分け: because、since、now that の使い分け",
 date: "2017-07-21T00:00:00Z",
-body: "理由を表す because、since、now that の使い分け NHK の新感覚☆わかる使える英文法 (84) 「理由、条件を表す接続詞」より。 Because と Since を使いわけられる日本人は多いけど、Now that \u0026hellip; Vpp も使えるようになるとかっこいいです。 Becase（理由／原因を表す） Why are you late? Because traffic was hell. John is home because the lights are on. Since（出来事の起点／始点を表す） Since we\u0026rsquo;re in Kyoto, let\u0026rsquo;s visit some temples.京都にいることだし、… Now that（今置かれている状況に焦点） Now that you**\u0026rsquo;ve** graduated, you must be more serious.もう卒業したことだし、…"
+body: "英語使い分け: because、since、now that の使い分け NHK の新感覚☆わかる使える英文法 (84) 「理由、条件を表す接続詞」より。 Because と Since を使いわけられる日本人は多いけど、Now that \u0026hellip; Vpp も使えるようになるとかっこいいです。 Becase（理由／原因を表す） Why are you late? Because traffic was hell. John is home because the lights are on. Since（出来事の起点／始点を表す） Since we\u0026rsquo;re in Kyoto, let\u0026rsquo;s visit some temples.京都にいることだし、… Now that（今置かれている状況に焦点） Now that you**\u0026rsquo;ve** graduated, you must be more serious.もう卒業したことだし、…"
 },
 {
 url: "/p/qg2qi5k/",
-title: "make ＞ have ＞ let の依頼の強さの違い",
+title: "英語使い分け: make、have、let の依頼の強さの違い",
 date: "2016-10-23T00:00:00Z",
-body: "make ＞ have ＞ let の依頼の強さの違い 誰かに何かをやってもらうときの依頼の強さは make ＞ have ＞ let の順で強くなります。 I\u0026rsquo;ll make Mary go. 「Mary に（無理やり）行かせます」 I\u0026rsquo;ll have Mary go. 「Mary が（適任なので）行ってもらいます」 I\u0026rsquo;ll let Mary go. 「Mary が（行きたがっているので）行ってもらいます」"
+body: "英語使い分け: make、have、let の依頼の強さの違い 誰かに何かをやってもらうときの依頼の強さは make ＞ have ＞ let の順で強くなります。 I\u0026rsquo;ll make Mary go. 「Mary に（無理やり）行かせます」 I\u0026rsquo;ll have Mary go. 「Mary が（適任なので）行ってもらいます」 I\u0026rsquo;ll let Mary go. 「Mary が（行きたがっているので）行ってもらいます」"
 },
 {
 url: "/p/scoz9jt/",
@@ -409,9 +433,9 @@ body: "「～してもらう」の表現 get 人 to V （頼んでしてもら�
 },
 {
 url: "/p/uwehio3/",
-title: "other と another の違い",
+title: "英語使い分け: other と another の違い",
 date: "2009-02-28T00:00:00Z",
-body: "other と another の違い 基本 one や other、another などは、次のような感じで使い分けます。 one \u0026ndash; 2つのうちの1つ the other \u0026ndash; 2つのうちのもう一方 the others \u0026ndash; 残りの全部 another \u0026ndash; いくつか残っているうちの「1つ」 the others は「残りの全て」を表す Moreover, each report can be compiled and distributed independently of all the others."
+body: "英語使い分け: other と another の違い 基本 one や other、another などは、次のような感じで使い分けます。 one \u0026ndash; 2つのうちの1つ the other \u0026ndash; 2つのうちのもう一方 the others \u0026ndash; 残りの全部 another \u0026ndash; いくつか残っているうちの「1つ」 the others は「残りの全て」を表す Moreover, each report can be compiled and distributed independently of all the others."
 },
 {
 url: "/p/tufhuqb/",
@@ -438,16 +462,16 @@ date: "2007-12-11T00:00:00Z",
 body: "お決まりの表現 Nothing lasts forever （終わらないものはない／永遠に続くものはない） This is fashion, and nothing lasts forever.─ 週刊STファッションの世界に永遠なし。"
 },
 {
-url: "/p/gz3myqg/",
-title: "change と alter の違い",
-date: "2007-12-10T00:00:00Z",
-body: "change と alter の違い change は「がらりと変わる」こと、alter は「少し変わる」ことを意味しています。 Suddenly his voice altered. 似たような表現に alternate があります。 alternate は「交互に現れる」という意味を持っています。 He was in excellent spirits, a mood which in his case alternated with fits of the depression.─ 週刊ST彼は上機嫌だった。彼の場合、その気分は憂鬱の発作と交互に訪れた。 alternate with ~（～と相互に起こる） fits of the depression（憂鬱の発作）"
-},
-{
 url: "/p/x7d89ga/",
 title: "there を使う文章",
 date: "2007-12-10T00:00:00Z",
 body: "there を使う文章 If there were If there were a coup, it would be the best day for Pakistan.─ 週刊STもしクーデターが起きたら、それはパキスタンにとって最良の日になるでしょう。"
+},
+{
+url: "/p/gz3myqg/",
+title: "英語使い分け: change と alter の違い",
+date: "2007-12-10T00:00:00Z",
+body: "英語使い分け: change と alter の違い change は「がらりと変わる」こと、alter は「少し変わる」ことを意味しています。 Suddenly his voice altered. 似たような表現に alternate があります。 alternate は「交互に現れる」という意味を持っています。 He was in excellent spirits, a mood which in his case alternated with fits of the depression.─ 週刊ST彼は上機嫌だった。彼の場合、その気分は憂鬱の発作と交互に訪れた。 alternate with ~（～と相互に起こる） fits of the depression（憂鬱の発作）"
 },
 {
 url: "/p/jg9efd8/",
@@ -493,9 +517,9 @@ body: "ある場所を探しているときに名前が出てこないときに�
 },
 {
 url: "/p/fqjgggw/",
-title: "all と every の違い",
+title: "英語使い分け: all と every の違い",
 date: "2007-04-27T00:00:00Z",
-body: "all と every の違い all all は「全体を眺める」イメージです。 all day一日中 all night終夜 every every は「すべての個々に注目する」イメージです。 後ろに名詞を続ける場合は必ず単数形になります。 every day毎日 every night毎晩 every other day一日おきに"
+body: "英語使い分け: all と every の違い all all は「全体を眺める」イメージです。 all day一日中 all night終夜 every every は「すべての個々に注目する」イメージです。 後ろに名詞を続ける場合は必ず単数形になります。 every day毎日 every night毎晩 every other day一日おきに"
 },
 {
 url: "/p/sft6ht6/",
@@ -517,9 +541,9 @@ body: "英語の辞書を引くときの心得 辞書で単語の意味を確認
 },
 {
 url: "/p/6atsour/",
-title: "関係代名詞の that と which の使い分け",
+title: "英語使い分け: 関係代名詞の that と which の使い分け",
 date: "2007-03-26T00:00:00Z",
-body: "関係代名詞の that と which の使い分け 後ろの説明文によって、先行する語句を明らかにする（特定する）場合は、関係代名詞として「that」を使い、そうでなく、補助的に説明を加えるだけなら、「コンマ＋which」を使います。 例えば、「テーブルの上の本を取ってください」という場合の次の 2 つの言い方。 (a) Give me the book that is on the table. (b) Give me the book, which is on the table. (a) の方は、複数の本のうち一冊がテーブルの上にある状況で、そのテーブルの上の一冊を取って欲しい場合。つまり、「テーブルの上にある」という説明で本を特定しているため、「that」以下の説明がないと聞き手は本を手に取ることができません（本をひとつに限定できない）。 (b) の方は、例えばその部屋に一冊しか本がない状況で、別にテーブルの上にあると説明しなくても聞き手がその本を特定できる場合。だから、「コンマ＋which」以下の説明がなくても別に構いません（言うなれば which 以下は親切心による説明）。 難しい言葉を使うと、上記の that 節を restrictive clause（制限節、限定的用法）、「コンマ＋which」節を **non-restrictive clause（非制限節、非限定的用法）**と言います。 実際には that と which が restrictive/non-restrictive の違いを表しているのではなく、前にコンマが付かない場合が restrictive で、コンマが付く場合が non-restrictive となります（コンマの後ろは補足的説明だと捉える）。 じゃあなぜわざわざ that/which の 2 つの関係代名詞が必要なのかというと、会話の中ではコンマがあるかどうかを判断するのが難しいからでしょう。 通常は that と聞こえたらその後には restrictive な説明が続き、which と聞こえたらその後には non-restrictive な説明が続くんだと聞き手は判断します。 このような背景から、that の前にはコンマを付けず、which の前にはコンマを付けるようにするのが正しいとされます。 話を聞くときは、that の後ろを聞き逃さないようにしないといけないですね！ ちなみに、who の前のコンマに関しても、同様に restrictive/non-restrictive が表現されます。 (a) He helped soldiers who got wounded. (b) He helped soldiers, who got wounded. (a) の方はコンマがなく、前の語句を限定しているので、負傷した軍人「だけ」助けことを意味しています（周りには負傷していない軍人もいた）。 (b) の方はコンマがあり、助けた軍人を、負傷していた軍人に「限定していません」（軍人はみんな負傷していた）。 このケースでは文章としてはコンマの前までで一応完結しており、コンマの前まで読んだ時点で、頭の中でその状況を思い浮かべてしまってもよいことになります。 参考: \u0026ldquo;That\u0026rdquo; and \u0026ldquo;which\u0026rdquo;"
+body: "英語使い分け: 関係代名詞の that と which の使い分け 後ろの説明文によって、先行する語句を明らかにする（特定する）場合は、関係代名詞として「that」を使い、そうでなく、補助的に説明を加えるだけなら、「コンマ＋which」を使います。 例えば、「テーブルの上の本を取ってください」という場合の次の 2 つの言い方。 (a) Give me the book that is on the table. (b) Give me the book, which is on the table. (a) の方は、複数の本のうち一冊がテーブルの上にある状況で、そのテーブルの上の一冊を取って欲しい場合。つまり、「テーブルの上にある」という説明で本を特定しているため、「that」以下の説明がないと聞き手は本を手に取ることができません（本をひとつに限定できない）。 (b) の方は、例えばその部屋に一冊しか本がない状況で、別にテーブルの上にあると説明しなくても聞き手がその本を特定できる場合。だから、「コンマ＋which」以下の説明がなくても別に構いません（言うなれば which 以下は親切心による説明）。 難しい言葉を使うと、上記の that 節を restrictive clause（制限節、限定的用法）、「コンマ＋which」節を **non-restrictive clause（非制限節、非限定的用法）**と言います。 実際には that と which が restrictive/non-restrictive の違いを表しているのではなく、前にコンマが付かない場合が restrictive で、コンマが付く場合が non-restrictive となります（コンマの後ろは補足的説明だと捉える）。 じゃあなぜわざわざ that/which の 2 つの関係代名詞が必要なのかというと、会話の中ではコンマがあるかどうかを判断するのが難しいからでしょう。 通常は that と聞こえたらその後には restrictive な説明が続き、which と聞こえたらその後には non-restrictive な説明が続くんだと聞き手は判断します。 このような背景から、that の前にはコンマを付けず、which の前にはコンマを付けるようにするのが正しいとされます。 話を聞くときは、that の後ろを聞き逃さないようにしないといけないですね！ ちなみに、who の前のコンマに関しても、同様に restrictive/non-restrictive が表現されます。 (a) He helped soldiers who got wounded. (b) He helped soldiers, who got wounded. (a) の方はコンマがなく、前の語句を限定しているので、負傷した軍人「だけ」助けことを意味しています（周りには負傷していない軍人もいた）。 (b) の方はコンマがあり、助けた軍人を、負傷していた軍人に「限定していません」（軍人はみんな負傷していた）。 このケースでは文章としてはコンマの前までで一応完結しており、コンマの前まで読んだ時点で、頭の中でその状況を思い浮かべてしまってもよいことになります。 参考: \u0026ldquo;That\u0026rdquo; and \u0026ldquo;which\u0026rdquo;"
 },
 {
 url: "/search/data.js",
