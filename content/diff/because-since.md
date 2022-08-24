@@ -1,8 +1,8 @@
 ---
-title: "理由を表す because、since、now that の使い分け"
+title: "英語使い分け: because、since、now that の使い分け"
 url: "/p/v8p6epw"
 date: "2017-07-21"
-tags: ["コラム"]
+tags: ["使い分け"]
 ---
 
 NHK の新感覚☆わかる使える英文法 (84) 「理由、条件を表す接続詞」より。

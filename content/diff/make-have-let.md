@@ -1,8 +1,8 @@
 ---
-title: "make ＞ have ＞ let の依頼の強さの違い"
+title: "英語使い分け: make、have、let の依頼の強さの違い"
 url: "/p/qg2qi5k"
 date: "2016-10-23"
-tags: ["コラム"]
+tags: ["使い分け"]
 ---
 
 誰かに何かをやってもらうときの依頼の強さは **make ＞ have ＞ let** の順で強くなります。

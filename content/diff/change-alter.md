@@ -1,7 +1,8 @@
 ---
-title: "change と alter の違い"
+title: "英語使い分け: change と alter の違い"
 url: "/p/gz3myqg"
 date: "2007-12-10"
+tags: ["使い分け"]
 ---
 
 change は「がらりと変わる」こと、alter は「少し変わる」ことを意味しています。

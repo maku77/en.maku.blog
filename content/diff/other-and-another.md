@@ -1,7 +1,8 @@
 ---
-title: "other と another の違い"
+title: "英語使い分け: other と another の違い"
 url: "/p/uwehio3"
 date: "2009-02-28"
+tags: ["使い分け"]
 ---
 
 基本

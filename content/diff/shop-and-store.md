@@ -1,5 +1,5 @@
 ---
-title: "Shop と Store の違い"
+title: "英語使い分け: shop と store の違い"
 url: "/p/ctsndbd"
 date: "2021-11-10"
 tags: ["使い分け"]

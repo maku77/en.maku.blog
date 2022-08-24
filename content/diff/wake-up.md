@@ -1,5 +1,5 @@
 ---
-title: "wake up と wake you up の違い"
+title: "英語使い分け: wake up と wake you up の違い"
 url: "/p/ibumx9i"
 date: "2021-08-11"
 tags: ["使い分け"]

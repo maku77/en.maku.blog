@@ -1,5 +1,5 @@
 ---
-title: "使い分け: agree with と agree to の違い"
+title: "英語使い分け: agree with と agree to の違い"
 url: "/p/sdp2bmv"
 date: "2020-01-22"
 tags: ["使い分け"]
