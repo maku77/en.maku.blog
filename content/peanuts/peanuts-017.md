@@ -4,14 +4,14 @@ url: "p/ptpw8i2/"
 date: "2022-08-24"
 ---
 
-{{% ex en="No, I'm against it." jp="私は反対です。" %}}
-{{% ex en="I'm not sure about that." jp="それはどうでしょう。" note="軽く反対をほのめかす場合に使えます。" %}}
-{{% ex en="That's not the case." jp="それは事実じゃないです。" %}}
-{{% ex en="That's not always the case." jp="必ずしもそうではないです。" %}}
-{{% ex en="One characteristic of 〜 is ..." jp="〜 のひとつの特徴は ... です。" %}}
-{{% ex en="There's no rush. / Take your time." jp="急ぐ必要はありません／あわてる必要はありません" %}}
-{{% ex en="Lately you've been getting a little lazy." jp="最近怠けてきているんじゃない？" %}}
-{{% ex en="prepare in advance / prepare ahead of time" jp="前もって準備する" %}}
-{{% ex en="Who goes first?" jp="誰から始める？" %}}
-{{% ex en="Count me out." jp="私はいいわ。" %}}
+{{< ex en="At a glance, it seems (looks like) ..." jp="一見、... のように見えますが" >}}
+{{< ex en="over time" jp="やがて" >}}
+{{< ex en="offset (make up | close) the deficit" jp="赤字を埋める" >}}
+{{< ex en="in less time" jp="より短い時間で／より早く" >}}
+{{< ex en="an ergonomic work environment" jp="人間工学に基づいた（作業効率のよい）職場環境" >}}
+{{< ex en="center on the idea that ..." jp="... という考えを中心にして" >}}
+{{< ex en="It may come as a surprise," jp="意外かもしれませんが、／驚くかもしれませんが、" >}}
+{{< ex en="Occasionally," jp="ときどき、／時折、" >}}
+{{< ex en="from one to the other" jp="一方からもう一方へ" >}}
+{{< ex en="From what I hear," jp="聞くところによると、" >}}
 
