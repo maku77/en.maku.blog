@@ -2,14 +2,20 @@ var data = [
 {
 url: "/p/5p2bkv6/",
 title: "英語の勉強メモ（今日の英語フレーズ）",
-date: "2022-08-24T00:00:00Z",
+date: "2023-01-01T00:00:00Z",
 body: "英語の勉強メモ（今日の英語フレーズ）"
+},
+{
+url: "/p/69wapz9/",
+title: "今日の英語フレーズ 018",
+date: "2023-01-01T00:00:00Z",
+body: "今日の英語フレーズ 018 No, I\u0026rsquo;m against it.私は反対です。 I\u0026rsquo;m not sure about that.それはどうでしょう。軽く反対をほのめかす場合に使えます。 That\u0026rsquo;s not the case.それは事実じゃないです。 That\u0026rsquo;s not always the case.必ずしもそうではないです。 One characteristic of 〜 is \u0026hellip;〜 のひとつの特徴は \u0026hellip; です。 There\u0026rsquo;s no rush. / Take your time.急ぐ必要はありません／あわてる必要はありません Lately you\u0026rsquo;ve been getting a little lazy.最近怠けてきているんじゃない？ prepare in advance / prepare ahead of time前もって準備する Who goes first?誰から始める？ Count me out.私はいいわ。"
 },
 {
 url: "/p/ptpw8i2/",
 title: "今日の英語フレーズ 017",
 date: "2022-08-24T00:00:00Z",
-body: "今日の英語フレーズ 017 No, I\u0026rsquo;m against it.私は反対です。 I\u0026rsquo;m not sure about that.それはどうでしょう。軽く反対をほのめかす場合に使えます。 That\u0026rsquo;s not the case.それは事実じゃないです。 That\u0026rsquo;s not always the case.必ずしもそうではないです。 One characteristic of 〜 is \u0026hellip;〜 のひとつの特徴は \u0026hellip; です。 There\u0026rsquo;s no rush. / Take your time.急ぐ必要はありません／あわてる必要はありません Lately you\u0026rsquo;ve been getting a little lazy.最近怠けてきているんじゃない？ prepare in advance / prepare ahead of time前もって準備する Who goes first?誰から始める？ Count me out.私はいいわ。"
+body: "今日の英語フレーズ 017 At a glance, it seems (looks like) \u0026hellip;一見、\u0026hellip; のように見えますが over timeやがて offset (make up | close) the deficit赤字を埋める in less timeより短い時間で／より早く an ergonomic work environment人間工学に基づいた（作業効率のよい）職場環境 center on the idea that \u0026hellip;\u0026hellip; という考えを中心にして It may come as a surprise,意外かもしれませんが、／驚くかもしれませんが、 Occasionally,ときどき、／時折、 from one to the other一方からもう一方へ From what I hear,聞くところによると、"
 },
 {
 url: "/p/vm6it5f/",
