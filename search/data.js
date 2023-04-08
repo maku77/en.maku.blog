@@ -351,7 +351,7 @@ body: "You could say that S+V ～とも言えるね／～かもしれない In f
 url: "/p/uvynnna/",
 title: "お願いするとき、誘うときの Do you want to ~",
 date: "2018-03-25T00:00:00Z",
-body: "お願いするとき、誘うときの Do you want to ~ Hapa 英会話さん \u0026ldquo;「Want to」を「〜したい」と覚えてしまうと・・・【#58】\u0026quot; Do you want to ~ （〜してくれない？／〜しない？） 同僚などにカジュアルに何かお願いするとき、誘うときには Do you want to ~ を使うといいみたい（Would you like to よりもくだけた感じで使える）。 確かにこの使い方はよく聞くけど、日本人としては感覚を掴めてない人が多そう。 職場に海外の人がいるときには、さらっと使えそうな表現ですね。 Do you want to get John? I\u0026rsquo;ll get Peter.ジョンさんを迎えに行ってくれない？私はピーターを迎えに行くから。 Do you want to order the beers while I find us a table?私が席を探している間にビールを注文してくれない？ Hey! Do you want to hang out tonight?ねぇ、今夜遊ばない？ Do you want to grab a beer after work?仕事の後にビールでも飲みに行かない？ Do you want me to ~ （私が〜しよっか？） 自分が「何かしましょうか」と提案するときの表現で、Would you like me to や、Should/Shall I よりもカジュアルに使える表現。 Do you want me to order the pizza?私がピザ注文しようか？ Do you want me to make a reservation?私が予約入れましょうか？ Do you want me to help you?手伝おうか？ Do you want me to drop you off at the station?駅まで送ろうか？ ネイティブは Do を省略することがよくある。 You want me to order the pizza?私がピザ注文しようか？"
+body: "お願いするとき、誘うときの Do you want to ~ Hapa 英会話さん \u0026ldquo;「Want to」を「〜したい」と覚えてしまうと・・・【#58】\u0026rdquo; Do you want to ~ （〜してくれない？／〜しない？） 同僚などにカジュアルに何かお願いするとき、誘うときには Do you want to ~ を使うといいみたい（Would you like to よりもくだけた感じで使える）。 確かにこの使い方はよく聞くけど、日本人としては感覚を掴めてない人が多そう。 職場に海外の人がいるときには、さらっと使えそうな表現ですね。 Do you want to get John? I\u0026rsquo;ll get Peter.ジョンさんを迎えに行ってくれない？私はピーターを迎えに行くから。 Do you want to order the beers while I find us a table?私が席を探している間にビールを注文してくれない？ Hey! Do you want to hang out tonight?ねぇ、今夜遊ばない？ Do you want to grab a beer after work?仕事の後にビールでも飲みに行かない？ Do you want me to ~ （私が〜しよっか？） 自分が「何かしましょうか」と提案するときの表現で、Would you like me to や、Should/Shall I よりもカジュアルに使える表現。 Do you want me to order the pizza?私がピザ注文しようか？ Do you want me to make a reservation?私が予約入れましょうか？ Do you want me to help you?手伝おうか？ Do you want me to drop you off at the station?駅まで送ろうか？ ネイティブは Do を省略することがよくある。 You want me to order the pizza?私がピザ注文しようか？"
 },
 {
 url: "/p/xihndus/",
@@ -480,16 +480,16 @@ date: "2007-12-10T00:00:00Z",
 body: "英語使い分け: change と alter の違い change は「がらりと変わる」こと、alter は「少し変わる」ことを意味しています。 Suddenly his voice altered. 似たような表現に alternate があります。 alternate は「交互に現れる」という意味を持っています。 He was in excellent spirits, a mood which in his case alternated with fits of the depression.─ 週刊ST彼は上機嫌だった。彼の場合、その気分は憂鬱の発作と交互に訪れた。 alternate with ~（～と相互に起こる） fits of the depression（憂鬱の発作）"
 },
 {
-url: "/p/jg9efd8/",
-title: "help は can/can't と一緒に使うと「～を避ける」という意味が出る",
-date: "2007-05-09T00:00:00Z",
-body: "help は can/can't と一緒に使うと「～を避ける」という意味が出る It can\u0026rsquo;t be helped.それは仕方ないよ I can\u0026rsquo;t help it.仕方ないんだよ (≒ It\u0026rsquo;s not my fault.)"
-},
-{
 url: "/p/5k4hr3x/",
 title: "「世話をする」を示す look after と take care of のニュアンスの違い",
 date: "2007-05-09T00:00:00Z",
 body: "「世話をする」を示す look after と take care of のニュアンスの違い 多くの辞書では「look after = take care of」となっていますが（英英辞典の LDOCE でもそう書いていますが）、使用される場面を見ていると、両者には微妙な違いがある感じがします。 それはたぶん look と take が持つ根本的なイメージと、前置詞による結合度の違い。 look \u0026ndash; 見る → 「眺めている」イメージ take \u0026ndash; 取り込む → 「触れ合っている」イメージ look after の方は、look が入っているので、「見守る」というニュアンスがあり、take care of の方は、take が入っているので、「手で扱う」、「触れ合う」というニュアンスがある。 前置詞の位置によっても感覚的な違いが現れています。 look after [名] の方は、look と名詞の間に、前置詞 after を挟んでいることで 「間接的」 なイメージが強く、look + after でちょっと離れて見守っている感じがします。 take care of [名] の方は、take の直後に care of [名] （[名] の世話）という名詞句が来るので 「直接的」 なイメージが強い。 例えば、家族や子供、ペットの世話をする場合は、時々「触れ合い」ながら世話をする必要があるので、多くの場合 take care of を使います。 I have to take care of my family.家族の世話をしないといけません。 Google の検索結果 \u0026ldquo;I have to take care of my family\u0026rdquo; → 1,840,000 件 \u0026ldquo;I have to look after my family\u0026rdquo; → 40 件 直面した問題に対処する（問題の世話をする）場合も、「手で扱って」処理する感覚から take care of を使うんだと考えれば、英和辞書の take care of の和訳として「～の処理をする、～を管理する、～を引き受ける」が載っているのも納得です。 I\u0026rsquo;ll take care of it!私にまかせておけ！ 逆に、仕事で上司が部下の面倒を見る場合などは、look after を使います。 男女の関係で take care of her のように言ってしまうと、面倒を見ているという意味よりも深い関係があるかのように思われてしまいます。 面白いのは「植物の世話をする」の表現で、これは世話の仕方によって使い分けます。 観葉植物や部屋に飾る花の「世話をする」を表現するときは、枯れないように「見守っている」というニュアンスがあるので、look after を使います。 「植物の世話をする」という場合は、ほとんどがこのケースだから look after を使えばよいと教えられることが多いです。 Google の検索結果 \u0026ldquo;look after * flower\u0026rdquo; → 3,100,000 件 \u0026ldquo;take care of * flower\u0026rdquo; → 879 件 でも、頻繁にその植物をいじりながら育てているというニュアンスを出したい場合は、take care of を使います。 例えば、盆栽などは頻繁に枝を切ったりして手で「触れながら」世話をする必要があるので take care of を使えば OK です。 Google の検索結果: \u0026ldquo;take care of * bonsai tree\u0026rdquo; → 21,600 件 \u0026ldquo;look after * bonsai tree\u0026rdquo; → 18 件"
+},
+{
+url: "/p/jg9efd8/",
+title: "help は can/can't と一緒に使うと「～を避ける」という意味が出る",
+date: "2007-05-09T00:00:00Z",
+body: "help は can/can't と一緒に使うと「～を避ける」という意味が出る It can\u0026rsquo;t be helped.それは仕方ないよ I can\u0026rsquo;t help it.仕方ないんだよ (≒ It\u0026rsquo;s not my fault.)"
 },
 {
 url: "/p/427ffqx/",
@@ -556,6 +556,12 @@ url: "/search/data.js",
 title: "",
 date: "0001-01-01T00:00:00Z",
 body: ""
+},
+{
+url: "/p/kofys5c/",
+title: "★名詞の後置修飾いろいろ",
+date: "0001-01-01T00:00:00Z",
+body: "★名詞の後置修飾いろいろ sometimes referred to as ~ （しばしば～と呼ばれる） Today, most Gantt charts are created in Excel or with project management softwaare sometimes referred to as Gantt chart software.─ The Ultimate Guide to: Gantt Charts also called ~ と同じような感じで使える。"
 },
 {
 url: "/p/tpdgrcu/",
@@ -639,7 +645,7 @@ body: "Have you ~ ? Have you been following Tiger Woods?タイガーウッズの
 url: "/p/2t9yn4o/",
 title: "hoard（食糧や金銭などを蓄える）",
 date: "0001-01-01T00:00:00Z",
-body: "hoard（食糧や金銭などを蓄える） 意味・発音 AmE: /hɔrd/ BrE: /hɔːd/ hoard には、主に「秘密の場所に隠された蓄え、厳重に管理されている蓄え」を意味します。 そのため、金銭的な価値のある物の蓄えを表すときによく使われます。 「蓄える」という動詞としても、「貯蔵、蓄え」という名詞としても使えます。 フレーズ 動詞 hoard the food（食料を貯蔵する） hoard money（お金を蓄える） hoard coins（硬貨をためる） hoard away one\u0026rsquo;s life savings（一生かけてためた金をしまっておく） hoard up treasure（財宝を貯蔵する） 名詞 a huge [large] hoard（莫大な貯蔵物） a pirate\u0026rsquo;s hoard（海賊の宝） a rice hoard（米の貯蔵） a treasure hoard / a hoard of treasure（秘蔵の財宝） a precious hoard of food（貴重な食料の蓄え） her secret hoard of food a squirrel\u0026rsquo;s hoard of nuts（リスの蓄えた木の実） the bees' hoard of honey（ミツバチが蓄えた蜂蜜） a snug little hoard of small change（たんまりたまった小銭の蓄え） amass a hoard of ABC shares（ABC社の株を大量にためこむ） 例文 動詞 When there was a rice shortage, people hoarded the food.─ 英辞郎2008-02-01米不足のときに、人々は食糧を貯蔵した。 A squirrel hoards nuts for the winter.─ 英和活用大辞典リスは冬のために木の実を蓄える。 That should encourage him to hoard even more paper.─ やさしいビジネス英語フレーズ辞典そんなことしたら、もっと書類をため込むように彼に推奨しているようなものだ。 The group has traditionally hoarded any spare cash rather than returning it to shareholders.─ Oxford Business English Dictionary Distributors hoarded oil supplies in the hope of selling them at high prices if war broke out.─ Oxford Business English Dictionary 名詞 They have a huge hoard of investments.─ Oxford Business English Dictionary With a cash hoard of over $30 billion, the company needs no help financing the takeover.─ Oxford Business English Dictionary He accumulated a hoard of firewood against the winter.─ 英和活用大辞典彼は冬に備えて薪（まき）を蓄えておいた。 He gathered a hoard of information on his political enemies.─ 英和活用大辞典自分の政敵に関する情報を蓄えた。 discover a huge hoard of jewelry─ 英和活用大辞典秘蔵してある莫大な宝石類を発見する Shelly\u0026rsquo;s got a hoard of chocolate bars in her desk drawer─ やさしいビジネス英語フレーズ辞典シェリーは机の引き出しの中にチョコレートをどっさりため込んでいる。"
+body: "hoard（食糧や金銭などを蓄える） 意味・発音 AmE: /hɔrd/ BrE: /hɔːd/ hoard には、主に「秘密の場所に隠された蓄え、厳重に管理されている蓄え」を意味します。 そのため、金銭的な価値のある物の蓄えを表すときによく使われます。 「蓄える」という動詞としても、「貯蔵、蓄え」という名詞としても使えます。 フレーズ 動詞 hoard the food（食料を貯蔵する） hoard money（お金を蓄える） hoard coins（硬貨をためる） hoard away one\u0026rsquo;s life savings（一生かけてためた金をしまっておく） hoard up treasure（財宝を貯蔵する） 名詞 a huge [large] hoard（莫大な貯蔵物） a pirate\u0026rsquo;s hoard（海賊の宝） a rice hoard（米の貯蔵） a treasure hoard / a hoard of treasure（秘蔵の財宝） a precious hoard of food（貴重な食料の蓄え） her secret hoard of food a squirrel\u0026rsquo;s hoard of nuts（リスの蓄えた木の実） the bees\u0026rsquo; hoard of honey（ミツバチが蓄えた蜂蜜） a snug little hoard of small change（たんまりたまった小銭の蓄え） amass a hoard of ABC shares（ABC社の株を大量にためこむ） 例文 動詞 When there was a rice shortage, people hoarded the food.─ 英辞郎2008-02-01米不足のときに、人々は食糧を貯蔵した。 A squirrel hoards nuts for the winter.─ 英和活用大辞典リスは冬のために木の実を蓄える。 That should encourage him to hoard even more paper.─ やさしいビジネス英語フレーズ辞典そんなことしたら、もっと書類をため込むように彼に推奨しているようなものだ。 The group has traditionally hoarded any spare cash rather than returning it to shareholders.─ Oxford Business English Dictionary Distributors hoarded oil supplies in the hope of selling them at high prices if war broke out.─ Oxford Business English Dictionary 名詞 They have a huge hoard of investments.─ Oxford Business English Dictionary With a cash hoard of over $30 billion, the company needs no help financing the takeover.─ Oxford Business English Dictionary He accumulated a hoard of firewood against the winter.─ 英和活用大辞典彼は冬に備えて薪（まき）を蓄えておいた。 He gathered a hoard of information on his political enemies.─ 英和活用大辞典自分の政敵に関する情報を蓄えた。 discover a huge hoard of jewelry─ 英和活用大辞典秘蔵してある莫大な宝石類を発見する Shelly\u0026rsquo;s got a hoard of chocolate bars in her desk drawer─ やさしいビジネス英語フレーズ辞典シェリーは机の引き出しの中にチョコレートをどっさりため込んでいる。"
 },
 {
 url: "/p/72prhta/",
@@ -726,28 +732,16 @@ date: "0001-01-01T00:00:00Z",
 body: "won't In most cases, you won\u0026rsquo;t notice the difference between void and Unit.─ Kotlin in Action多くの場合、あなたは void と Unit の違いに気づかないでしょう。 It won\u0026rsquo;t rain tomorrow.明日は雨は降らないだろう。 I\u0026rsquo;m sorry. It won\u0026rsquo;t happen again.すみません、二度とそのようなことがないようにします。 He won\u0026rsquo;t be long.彼はすぐ帰ってくるでしょう。"
 },
 {
-url: "/p/kofys5c/",
-title: "★名詞の後置修飾いろいろ",
+url: "/p/3fa8crn/",
+title: "シーン別表現集「オフィス／仕事」",
 date: "0001-01-01T00:00:00Z",
-body: "★名詞の後置修飾いろいろ sometimes referred to as ~ （しばしば～と呼ばれる） Today, most Gantt charts are created in Excel or with project management softwaare sometimes referred to as Gantt chart software.─ The Ultimate Guide to: Gantt Charts also called ~ と同じような感じで使える。"
-},
-{
-url: "/p/3kgedbo/",
-title: "その他",
-date: "0001-01-01T00:00:00Z",
-body: "その他 To say that S+V is ~ （S+V と言うのは～だ） To say that Spiti is remote is an understatement.─ 週刊ST2008-03-18スピチが辺鄙（へんぴ）な所と言うのは控え目すぎる表現だ。"
+body: "シーン別表現集「オフィス／仕事」 会社 Companies with tailwinds追い風にある企業 Companies facing headwinds向かい風にある企業 任せる／責任 It falls to you.あなたの肩にかかっています。 answer to the boss上司に対して責任説明を負う answer to the client顧客に対して責任説明を負う You have to answer to your boss.あなたは上司に説明する必要があります。 Who do you answer to?あなたの上司は誰ですか？（誰に対して責任を追っていますか） 答える answer with a nodうなづきで答える answer with a quick response素早い応答で答える answer with a smile微笑んで答える answer with a bowおじぎで答える answer with confidence自信を持って答える 提案する／手助けする You can ~〜するといいですよ。 Why don\u0026rsquo;t you ~〜したらどうですか？ Let me do that for you.私にやらせてください。 Let me help you.手伝ってあげるよ。 Shall I have him call you back later?彼に折り返し電話をさせましょうか？ Shall I go over that again?もう一度説明しましょうか？ Would you like me to drive?私が運転しましょうか？ ひとこと反応する That would be great.─ 入門ビジネス英語助かります。 That sounds good.─ 英会話タイムトライアル（それで）よろしくお願いします。 Either way is OK/fine.どちらでもいいです。 Yes, that\u0026rsquo;s right, you got it.そう、その通りです。 許可を求めなくてもいいですよ。 You don\u0026rsquo;t have to ask permission. 今は彼女のコメントは聞けません。 She\u0026rsquo;s not available for comment now. すべて彼の功績です。 He deserves all the credit. これって何で動いているの？ What does this run on? 彼らと話させてください。 Let me talk to them. 職業上の秘密は教えられません。 I can\u0026rsquo;t reveal secrets of the trade. どうして～のようにお考えですか？ What makes you think \u0026ndash;? どうして遺書がもう一通あるとお考えですか？ What makes you think there\u0026rsquo;s another will? ２つの間には決定的な違いがあるんだよ。 There\u0026rsquo;s a critical distinction between them. すぐにお返事をいただきありがとうございます。 Thank you for your prompt reply. わざわざ手伝いに来ていただいてありがとうございます。 Thank you for taking the trouble to come and help us. 彼は休みを取っているよ。 He\u0026rsquo;s taking the day off. （彼は）家に電話をしてもいいって言っていたよ。 He said we could call him at home. （私たちは）この問題を\u0026rsquo;\u0026lsquo;別の角度から\u0026rsquo;\u0026lsquo;見る必要がある。 We need to look at this issue \u0026lsquo;\u0026lsquo;from another angle\u0026rsquo;\u0026rsquo;. \u0026lsquo;\u0026lsquo;電話では\u0026rsquo;\u0026lsquo;できないんだよ。 We can\u0026rsquo;t do it \u0026lsquo;\u0026lsquo;over the phone\u0026rsquo;\u0026rsquo;. 済んでしまったことはしょうがない。 What\u0026rsquo;s done is done. ありがとう、そうでしたね！（忘れてました！） Thank you for reminding me! 時間のことをすっかり忘れていました。 I lost track of time. それは僕の手には負えない。 That\u0026rsquo;s more than I can handle. きっと聞き間違えたんだよ。 You must\u0026rsquo;ve heard wrong. 私は2つの選択肢を考えています。 I\u0026rsquo;m looking at two options. わかっていただけましたか？ Have I made myself clear? 私たちはまだあなたの提案を検討中なんです。もうすぐ結論が出ると思うのですが。後２、３日いただけますか？もう１度会議をすれば大丈夫ですから。 We\u0026rsquo;re still considering your proposal. I think we\u0026rsquo;re close to a decision. Can you give us a few more days? One more meeting should do it. 君の考えをざっと描けるかい？ Can you make a sketch of your idea? 自分の小論文に対する意見を彼に求めてみます。 I\u0026rsquo;ll asked him for feedback on my essay. ここまではいいと思うよ。 I like what you\u0026rsquo;ve done so far. 問題のある箇所に下線を引いておいた。 I underlined the parts that are qustionable. 早まった決断はすべきじゃない。 We shouldn\u0026rsquo;t make a rash decision."
 },
 {
 url: "/p/vqrr5q8/",
 title: "シーン別表現集「お願いする／尋ねる」",
 date: "0001-01-01T00:00:00Z",
 body: "シーン別表現集「お願いする／尋ねる」 英語で何というか尋ねる How do you say ~ in English英語で～はどう言うの？ We say ~.～って言うよ What is this called?これは何て呼ばれているの？ What do you call this in English英語でこれは何て呼ぶの？ need でお願いする 何かお願いしたり、頼みたいときは、Could you や I\u0026rsquo;d like to ではなく、need を使って表現することもできます。 I need information.情報が欲しいです。 I need a bit of your time.少しお時間をいただけますか？ I need to talk with you.お話ししたいのですが。 Can I でお願いする Can I ask you something?質問してもいいですか？"
-},
-{
-url: "/p/3fa8crn/",
-title: "シーン別表現集「オフィス／仕事」",
-date: "0001-01-01T00:00:00Z",
-body: "シーン別表現集「オフィス／仕事」 会社 Companies with tailwinds追い風にある企業 Companies facing headwinds向かい風にある企業 任せる／責任 It falls to you.あなたの肩にかかっています。 answer to the boss上司に対して責任説明を負う answer to the client顧客に対して責任説明を負う You have to answer to your boss.あなたは上司に説明する必要があります。 Who do you answer to?あなたの上司は誰ですか？（誰に対して責任を追っていますか） 答える answer with a nodうなづきで答える answer with a quick response素早い応答で答える answer with a smile微笑んで答える answer with a bowおじぎで答える answer with confidence自信を持って答える 提案する／手助けする You can ~〜するといいですよ。 Why don\u0026rsquo;t you ~〜したらどうですか？ Let me do that for you.私にやらせてください。 Let me help you.手伝ってあげるよ。 Shall I have him call you back later?彼に折り返し電話をさせましょうか？ Shall I go over that again?もう一度説明しましょうか？ Would you like me to drive?私が運転しましょうか？ ひとこと反応する That would be great.─ 入門ビジネス英語助かります。 That sounds good.─ 英会話タイムトライアル（それで）よろしくお願いします。 Either way is OK/fine.どちらでもいいです。 Yes, that\u0026rsquo;s right, you got it.そう、その通りです。 許可を求めなくてもいいですよ。 You don\u0026rsquo;t have to ask permission. 今は彼女のコメントは聞けません。 She\u0026rsquo;s not available for comment now. すべて彼の功績です。 He deserves all the credit. これって何で動いているの？ What does this run on? 彼らと話させてください。 Let me talk to them. 職業上の秘密は教えられません。 I can\u0026rsquo;t reveal secrets of the trade. どうして～のようにお考えですか？ What makes you think \u0026ndash;? どうして遺書がもう一通あるとお考えですか？ What makes you think there\u0026rsquo;s another will? ２つの間には決定的な違いがあるんだよ。 There\u0026rsquo;s a critical distinction between them. すぐにお返事をいただきありがとうございます。 Thank you for your prompt reply. わざわざ手伝いに来ていただいてありがとうございます。 Thank you for taking the trouble to come and help us. 彼は休みを取っているよ。 He\u0026rsquo;s taking the day off. （彼は）家に電話をしてもいいって言っていたよ。 He said we could call him at home. （私たちは）この問題を'\u0026lsquo;別の角度から'\u0026lsquo;見る必要がある。 We need to look at this issue \u0026lsquo;\u0026lsquo;from another angle\u0026rsquo;\u0026rsquo;. \u0026lsquo;\u0026lsquo;電話では'\u0026lsquo;できないんだよ。 We can\u0026rsquo;t do it \u0026lsquo;\u0026lsquo;over the phone\u0026rsquo;\u0026rsquo;. 済んでしまったことはしょうがない。 What\u0026rsquo;s done is done. ありがとう、そうでしたね！（忘れてました！） Thank you for reminding me! 時間のことをすっかり忘れていました。 I lost track of time. それは僕の手には負えない。 That\u0026rsquo;s more than I can handle. きっと聞き間違えたんだよ。 You must\u0026rsquo;ve heard wrong. 私は2つの選択肢を考えています。 I\u0026rsquo;m looking at two options. わかっていただけましたか？ Have I made myself clear? 私たちはまだあなたの提案を検討中なんです。もうすぐ結論が出ると思うのですが。後２、３日いただけますか？もう１度会議をすれば大丈夫ですから。 We\u0026rsquo;re still considering your proposal. I think we\u0026rsquo;re close to a decision. Can you give us a few more days? One more meeting should do it. 君の考えをざっと描けるかい？ Can you make a sketch of your idea? 自分の小論文に対する意見を彼に求めてみます。 I\u0026rsquo;ll asked him for feedback on my essay. ここまではいいと思うよ。 I like what you\u0026rsquo;ve done so far. 問題のある箇所に下線を引いておいた。 I underlined the parts that are qustionable. 早まった決断はすべきじゃない。 We shouldn\u0026rsquo;t make a rash decision."
 },
 {
 url: "/p/utzq22y/",
@@ -784,6 +778,12 @@ url: "/p/unmsffo/",
 title: "シーン別表現集「金融・会計・経済」",
 date: "0001-01-01T00:00:00Z",
 body: "シーン別表現集「金融・会計・経済」 単語 小売業界 the retail industry The retail industry fell upon difficult times.小売業界 は財政難に直面しました。 不動産業 the real estate industry 自己資本比率 capigtal ratio / captal-adequacy ratio 時価会計 current cost accounting 変動為替相場制 floating exchange rate system / flexible exchange rate system 固定為替相場制 fixed exchange rate system 銀行の預金通帳 a passbook of a bank 普通預金口座 savings account 0.25% \u0026ndash; by a quarter point quarter は 1/4 という意味があるため、a quarter point で 0.25 を表現できます。 Fed raises rates a quarter point.─ CNBCFed は金利を 0.25% 上げた。 Fed hikes rates by a quarter point.─ CNBC Federal Reserve raises benchmark rate by a quarter point.─ WSJ in the red / in the black We\u0026rsquo;re in the red.私たちは赤字です。 We\u0026rsquo;re in the black.私たちは黒字です。 郵便為替 money order (AmEn) / postal order (BrEn) I want a money order for 75 US dollars.75 アメリカドルの郵便為替をください。"
+},
+{
+url: "/p/3kgedbo/",
+title: "その他",
+date: "0001-01-01T00:00:00Z",
+body: "その他 To say that S+V is ~ （S+V と言うのは～だ） To say that Spiti is remote is an understatement.─ 週刊ST2008-03-18スピチが辺鄙（へんぴ）な所と言うのは控え目すぎる表現だ。"
 },
 {
 url: "/p/gfvwcci/",
