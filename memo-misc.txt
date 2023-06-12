@@ -8,14 +8,8 @@ This package is too big to fit in the mailbox.
 いつでもお電話ください。フリーダイアルです。
 Just call us any time. It is a toll-free number.
 
-歩いていける距離にあるよ。
-It's within walking distance.
-
 水族館はここから歩いて10分です。
 The aquarium is a ten-minute walk from here.
-
-鼻水が出てるよ。
-Your nose is running.
 
 この会議を始める前に、皆さんに誰が誰なのかを知ってもらいたいと思います。ですから、知り合いになることから始めましょう。
 Before we start this meeting, I'd like to make sure that everyone knows who is who. So let's start by getting acquainted.
@@ -77,7 +71,6 @@ I distinctly remember telling you to be home by 10 o'clock.
 tariff
 Data transfer can sometimes incur an additional tariff from your service provider.
 
-
 高くつく、費用のかかる
 costly
 ただより高いものはない。
@@ -93,10 +86,6 @@ Caching data and GPS results to eliminate redundant or repetitive lookups.
 サービス料
 charges for services
 Charges for services vary between service providers and contract plans.
-
-一貫性を維持する
-maintain consistency
-maintain a consistent look and feel
 
 !句 (Phrase)
 時間とともに、やがて
