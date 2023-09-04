@@ -60,7 +60,6 @@ will have to do with ~（〜でやっていかなければならない、〜で�
 {{< ex jp="どっちでもいいです" en="It doesn't really matter." >}}
 {{< ex jp="できたらいいんだけど、もう行かなきゃ。" en="I wish I could, but I have to go now." >}}
 {{< ex jp="それについて意見を述べてください。" en="I would like you to comment on that." >}}
-{{< ex jp="動くはずだ" en="It should work." >}}
 {{< ex jp="この本借りていい？」<BR>「いいよ」<BR>「ありがとう。すぐ返すよ」<BR>「ごゆっくりどうぞ" en="Can I borrow this book?<BR>Sure.<BR>Thanks. I'll give it back right away.<BR>Take your time." >}}
 {{< ex jp="やっぱりね" en="I thought so." >}}
 {{< ex jp="本気ですか？」<BR>「マジだよ" en="Are you serious?<BR>I mean it." >}}
@@ -132,7 +131,6 @@ will have to do with ~（〜でやっていかなければならない、〜で�
 {{< ex jp="伝言を承りましょうか" en="May I take a message?" >}}
 {{< ex jp="では金曜日はいかがですか？" en="Could we possibly make it for Friday?" >}}
 {{< ex jp="考えとくね" en="I'll think about it." >}}
-{{< ex jp="これが何か分かりますか" en="Can you tell what this is?" >}}
 {{< ex jp="どう思いますか、ハコさん。" en="What do you think, Hako?" >}}
 {{< ex jp="12ページのグラフをご覧になってください。" en="Let's take a look at the graph on page twelve." >}}
 {{< ex jp="その点に関して再考していただけませんか" en="Could you reconsider that?" >}}

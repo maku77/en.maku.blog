@@ -4,20 +4,15 @@ url: "p/zkpv2bz/"
 draft: true
 ---
 
-{{< ex jp="" en="" >}}
-{{< ex jp="" en="" >}}
-{{< ex jp="" en="" >}}
-{{< ex jp="" en="" >}}
-{{< ex jp="" en="" >}}
-{{< ex jp="" en="" >}}
-{{< ex jp="" en="" >}}
-{{< ex jp="" en="" >}}
-{{< ex jp="" en="" >}}
+{{< ex jp="生産性を向上する" en="increase productivity" >}}
+{{< ex jp="費用を削減する" en="cut expenses" >}}
+{{< ex jp="低迷するインターネット利用率を高める" en="boost the low Internet use" >}}
+{{< ex jp="当初から" en="From the beginning" >}}
+{{< ex jp="お金に関する様々なサービス" en="a variety of monetary services" >}}
+{{< ex jp="コレクション内の逸品" en="the gem of my collection" >}}
 
 - だから、きっとこの場所の名前''は想像がつくよね''。
     - So ''I bet you can guess'' the name of the place.
-- いい友達に、乾杯！
-    - Here's to good friends! Cheers!
 - いつもは大丈夫なのに。
     - It usually works.
 - でも、ときどき鍵が回らなくなるの。
@@ -30,8 +25,4 @@ draft: true
     - have the decided advantage of ~
 - 相手に対して決定的に優位に立つ
     - gain a decided advantage over your opponents
-- 〜につけ込む／〜を利用する
-    - take advantage of
-- これらのミスにつけ込む
-    - take advantage of these mistakes
 - 音を出す make a sound
