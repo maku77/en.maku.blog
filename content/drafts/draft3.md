@@ -4,8 +4,6 @@ url: "/p/ih4fpgk"
 draft: true
 ---
 
-{{% ex en="That's not what I meant." jp="誤解です。そういう意図じゃないです。" %}}
-{{% ex en="I'll pick it up **in person**." jp="**自分で**取りに行きます。" %}}
 {{% ex jp="皆でランチに行くの。来る、ウェンディ？忙しいならいいわよ。" en="We're all going to lunch. Are you coming, Wendy? It's OK if you're busy." %}}
 {{% ex jp="あなたに感謝の気持ちでいっぱいです。" en="I'm filled with gratitude for you." %}}
 
@@ -23,9 +21,6 @@ draft: true
 
 - 早まらないで・・・
 - Not so fast...
-
-- お会いできて光栄です。
-- It's a pleasure.
 
 - 今日はどんなご用件でここへ？
 - What brings you here today?
