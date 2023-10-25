@@ -1,5 +1,5 @@
 ---
-title: "1. 文頭のつなぎ表現"
+title: "英語の文頭で使えるつなぎ表現"
 url: "/p/tpdgrcu"
 ---
 
@@ -20,6 +20,8 @@ url: "/p/tpdgrcu"
 - With this in mind, ... （これを念頭に置き、…）
 - case の使用例(1) In cases where S+V, ... （S+V の場合には、…）
 - case の使用例(2) In some cases, ... （場合によっては、…）
+- It's worth noting here that ... （ここで注目すべきは …）
+- The canonical examples are ... （典型的な例としては …）
 
 
 具体的には、

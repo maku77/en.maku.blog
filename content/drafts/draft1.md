@@ -22,12 +22,14 @@ Could you <strong>give me a hand</strong>, please?
 
 この辺のおすすめは何ですか？
 What's good around here?
+
 <h2>病気・体調</h2>
 <strong>腹痛</strong>がひどいんです。
 I <strong>have a bad stomachache</strong>.
 
 <strong>頭痛</strong>がひどいんです。
 I <strong>have a bad headache</strong>.
+
 <h2>仕事の話題</h2>
 <h3>初対面</h3>
 どんな分野の仕事をしているんですか？

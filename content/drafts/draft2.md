@@ -4,33 +4,6 @@ url: "/p/sm9y9d6"
 draft: true
 ---
 
-Let's hope ~ （～を願おう）
-----
-{{< ex en="**Let's hope** the men in charge have the courage to do what's necessary" jp="関係者の人たちが必要なことを行う勇気を持っていることを願おう。" cite="週刊ST" >}}
-
-- the men in charge -- 関係者
-
-
-will do as ~（〜として役に立つ）
-----
-
-{{< ex jp="このドレスはフォーマルウェアとしては役に立たない。" en="This dress **will not do as** formal wear." cite="ネイティブはこう使う！マンガでわかる前置詞" >}}
-
-
-will do for ~（〜の代わりになる）ややネガティブな意味
-----
-
-{{< ex jp="This **will do for** the presentation." en="まぁプレゼンにはこれでいいか。" cite="ネイティブはこう使う！マンガでわかる前置詞" >}}
-
-
-will have to do with ~（〜でやっていかなければならない、〜で我慢しなければならない）
-----
-
-{{< ex jp="この古いコンピュータでやっていかなければならない。" en="We**'ll have to do with** this old computer." cite="ネイティブはこう使う！マンガでわかる前置詞" >}}
-{{< ex jp="コンピュータなしでやっていかなければならない。" en="We**'ll have to do without** a computer." cite="ネイティブはこう使う！マンガでわかる前置詞" >}}
-{{< ex jp="今夜はこの残り物で我慢しなきゃかぁ。" en="I**'ll have to do with** these leftovers tonight." cite="ネイティブはこう使う！マンガでわかる前置詞" >}}
-
-
 未分類
 ----
 

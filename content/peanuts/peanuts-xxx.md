@@ -4,8 +4,8 @@ url: "p/zkpv2bz/"
 draft: true
 ---
 
-{{< ex jp="お金に関する様々なサービス" en="a variety of monetary services" >}}
 {{< ex jp="コレクション内の逸品" en="the gem of my collection" >}}
+{{< ex jp="診断の結果は？（医者は何と？）" en="What did the doctor say?" >}}
 
 - いつもは大丈夫なのに。
     - It usually works.
@@ -28,3 +28,4 @@ draft: true
 
 {{< ex jp="面倒でなければ、..." en="If it's not too much trouble, ..." >}}
 {{< ex jp="ストーリーをバラす" en="give away the story" >}}
+

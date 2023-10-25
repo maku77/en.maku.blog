@@ -1,22 +1,21 @@
 ---
 title: "慣用句（イディオム）とフレーズ集"
 title: "慣用句とフレーズ集"
-url: "/p/dmkcqku"
+url: "p/dmkcqku/"
 ---
 
-{{% ex en="The thing is ..." jp="つまり...、 ようするに..." %}}
-{{% ex jp="～の心配をしました。" en="I was concerned about ~" %}}
-{{% ex jp="～のことは**あまり**知りません。" en="I don't know **much** about him." %}}
-
+{{< ex en="The thing is ..." jp="つまり...、 ようするに..." >}}
+{{< ex jp="～の心配をしました。" en="I was concerned about ~" >}}
+{{< ex jp="～のことは**あまり**知りません。" en="I don't know **much** about him." >}}
 {{< ex en="See ~ if you are unfamiliar with how S+V" jp="もしどのように S+V するかにあまり馴染みがないのであれば、～を参照してください。" >}}
 {{< ex en="not to confused with ~" jp="～と混同しないでください" >}}
 {{< ex jp="詳細はまだはっきりとしないが、～" en="The details are vague for now, but ~" >}}
-{{% ex jp="S+V ということは知ってた？" en="Did you know that S+V" %}}
-{{% ex jp="まるで S+V かのように言うね。" en="As is S+V" %}}
-{{% ex jp="何年も後に分かったんですけど。" en="I found out many years later." %}}
-{{% ex en="**Something is wrong with** my car." jp="車**が何か調子が悪いな**。" %}}
-{{% ex en="**I think it would be better if** you go home." jp="（アドバイスする）家に帰った方がいいと思いますよ。" %}}
-{{% ex en="It is a big advantage **not to have to** know or care what kind of Set you are using." jp="自分がどの Set を使っているのかを気に**する必要がないということは**大きなメリットである。" %}}
+{{< ex jp="S+V ということは知ってた？" en="Did you know that S+V" >}}
+{{< ex jp="まるで S+V かのように言うね。" en="As is S+V" >}}
+{{< ex jp="何年も後に分かったんですけど。" en="I found out many years later." >}}
+{{< ex en="**Something is wrong with** my car." jp="車**が何か調子が悪いな**。" >}}
+{{< ex en="**I think it would be better if** you go home." jp="（アドバイスする）家に帰った方がいいと思いますよ。" >}}
+{{< ex en="It is a big advantage **not to have to** know or care what kind of Set you are using." jp="自分がどの Set を使っているのかを気に**する必要がないということは**大きなメリットである。" >}}
 
 
 Do you happen to ~（ひょっとして）〜したりしますか？

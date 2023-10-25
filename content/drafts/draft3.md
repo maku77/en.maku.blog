@@ -4,8 +4,8 @@ url: "/p/ih4fpgk"
 draft: true
 ---
 
-{{% ex jp="皆でランチに行くの。来る、ウェンディ？忙しいならいいわよ。" en="We're all going to lunch. Are you coming, Wendy? It's OK if you're busy." %}}
-{{% ex jp="あなたに感謝の気持ちでいっぱいです。" en="I'm filled with gratitude for you." %}}
+{{< ex jp="皆でランチに行くの。来る、ウェンディ？忙しいならいいわよ。" en="We're all going to lunch. Are you coming, Wendy? It's OK if you're busy." >}}
+{{< ex jp="あなたに感謝の気持ちでいっぱいです。" en="I'm filled with gratitude for you." >}}
 
 - どうしてるの、エド。
 - How've you been, Ed? (= How have you been?)
@@ -106,8 +106,6 @@ draft: true
 - もう少しリスクの少ないものにしようかな・・・水泳とか。
 - I'd like to try something less risky... like swimming.
 
-- 診断の結果は？（医者は何と？）
-- What did the doctor say?
 
 - ま、時には負けることもあるさ。
 - Well, you can't win them all. （発音はウィネモーゥ）
@@ -192,7 +190,6 @@ draft: true
 
 - これは写真を撮らないと！
 - This is a photo opportunity.
-
 
 === org dic ===
 ひとつずつ
@@ -443,21 +440,6 @@ The release will be delayed, will it not?
 [中国語] 中国語を教えてください。请教我汉语。
 
 ----------------------------------------------------------------------
-2011-05-13 13:24:22
-
-単純に～するだけで
-simply by Ving
-
-In most cases, you can ensure density independence in your application simply by specifying all layout dimension values in density-independent pixels (dp units) or with "wrap_content", as appropriate.
-(Android Developers Guide)
-
-----------------------------------------------------------------------
-2011-05-06 19:43:16 [English]
-
-先に進む前に
-before moving on (to the next)
-
-----------------------------------------------------------------------
 2011-05-06 19:47:07 [English]
 
 ～に注目してください
@@ -475,14 +457,3 @@ Notice the ~
 Zhù nǐ huángjīnzhōu kuàilè
 
 中国語中級教室の楊磊 Yáng lěi（ヨウ・ライ）先生に言われた。
-
-
-----------------------------------------------------------------------
-2011-04-18 10:22:51
-<<ja_to_en>> [id:001] これらのEメールを発信する // send out these emails
-<<ja_to_en>> [id:002] これらのEメールを発信していただきありがとうございます。 // Thanks so much for sending out these emails.
-
-using_relations
-used:001, using:002
-
-
