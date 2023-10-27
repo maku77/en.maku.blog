@@ -9,13 +9,10 @@ draft: true
 
 {{< ex jp="君はイカロス１号を操縦できる**と想定しているわけだ**。" en="**You're assuming** we'd be able to pilot Icarus I." cite="映画『Sunshine 2057』" >}}
 {{< ex jp="カードに名前が書かれていませんでした。" en="The card wasn't sined." >}}
-{{< ex jp="彼は今昼休み中です" en="He's on lunch break now." >}}
 {{< ex jp="なんて込んでるんだ！<BR>ほんとだね。" en="What a crowd!<BR>It sure is." >}}
 {{< ex jp="偶然だね！なんて偶然なんだ！" en="What a coincidence!" >}}
 {{< ex jp="他のものを探そうよ" en="Let's find something else." >}}
-{{< ex jp="お名前は？" en="Can I have your name, please?" >}}
 {{< ex jp="新しくこちらに引っ越してきた方ですね" en="You must be the new resident here?" >}}
-{{< ex jp="なるほど" en="That makes sense." >}}
 {{< ex jp="私がでかけている間に何をしたの？" en="What did you do while I was out?" >}}
 {{< ex jp="当日です" en="On the very day." >}}
 {{< ex jp="ルールを説明してくれませんか？" en="Would you explain the rules, please?" >}}

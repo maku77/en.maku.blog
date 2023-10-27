@@ -4,15 +4,6 @@ url: "p/zkpv2bz/"
 draft: true
 ---
 
-{{< ex jp="コレクション内の逸品" en="the gem of my collection" >}}
-{{< ex jp="診断の結果は？（医者は何と？）" en="What did the doctor say?" >}}
-
-- いつもは大丈夫なのに。
-    - It usually works.
-- でも、ときどき鍵が回らなくなるの。
-    - But once in a while the key jams.
-- この錠前、何か変だわ。
-    - Something's wrong with this lock.
 - あなたの結婚観
     - your idea on marriage
 - I'm easily moved to tears.

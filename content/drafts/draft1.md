@@ -4,8 +4,6 @@ url: "/p/zs9g7dq"
 draft: true
 ---
 
-{{% ex en="That's what it's there for." jp="それはそのためにあるんだよ。" %}}
-
 <h2>英語が苦手な人のための英語</h2>
 <h3>聞き取れないとき</h3>
 すみませんが、<strong>簡潔に</strong>おっしゃっていただけますか？
@@ -16,12 +14,10 @@ Excuse me, but would you say that again <strong>a little slower</strong>?
 <h3>手伝って欲しいとき</h3>
 手を貸していただけませんか？
 Could you <strong>give me a hand</strong>, please?
-<h2>海外旅行</h2>
-<strong>上の部屋（下の部屋）</strong>がすごくうるさいんです。
-<strong>The room above me (below me)</strong> is very noisy.
 
-この辺のおすすめは何ですか？
-What's good around here?
+<h2>海外旅行</h2>
+{{< ex jp="**上の部屋（下の部屋）** がすごくうるさいんです。" en="**The room above me (below me)** is very noisy." >}}
+{{< ex jp="この辺のおすすめは何ですか？" en="What's good around here?" >}}
 
 <h2>病気・体調</h2>
 <strong>腹痛</strong>がひどいんです。
