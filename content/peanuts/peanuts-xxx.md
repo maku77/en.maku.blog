@@ -4,6 +4,8 @@ url: "p/zkpv2bz/"
 draft: true
 ---
 
+{{< ex jp="フォーラムはデータに関する有益な情報 **で満載です**。" en="The forums **are full of** useful information on the data." >}}
+
 - あなたの結婚観
     - your idea on marriage
 - I'm easily moved to tears.
