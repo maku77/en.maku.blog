@@ -1,7 +1,7 @@
 ---
 title: "英語使い分け: 「信念」belief / conviction / faith"
 url: "p/bairhfu/"
-date: "2023-11-26"
+date: "2024-01-02"
 tags: ["使い分け"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "英語使い分け: all と every の違い"
-url: "/p/fqjgggw"
+url: "p/fqjgggw/"
 date: "2007-04-27"
 tags: ["使い分け"]
 ---

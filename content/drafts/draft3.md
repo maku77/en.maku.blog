@@ -4,45 +4,6 @@ url: "/p/ih4fpgk"
 draft: true
 ---
 
-{{< ex jp="皆でランチに行くの。来る、ウェンディ？忙しいならいいわよ。" en="We're all going to lunch. Are you coming, Wendy? It's OK if you're busy." >}}
-{{< ex jp="あなたに感謝の気持ちでいっぱいです。" en="I'm filled with gratitude for you." >}}
-
-- どうしてるの、エド。
-- How've you been, Ed? (= How have you been?)
-
-- まぁ順調ですよ。
-- Can't complain. (= I can't complain.)
-
-- これはあなたにとて何かの意味がありますか？
-- Does this mean anything to you?
-
-- 心当たりがありません。
-- That doesn't ring a bell.
-
-- 早まらないで・・・
-- Not so fast...
-
-- 今日はどんなご用件でここへ？
-- What brings you here today?
-
-- 初めから伺いましょう。
-- let's start from the beginning.
-
-- 父が最近、他界しまして。
-- My father passed away recently.
-
-- お悔やみ申し上げます。
-- I'm sorry for your loss.
-
-- さみしくなりました。
-- I miss him.
-
-- （彼の）お名前はかねがね。
-- I knew of him.（of を強調して）
-
-- 御兄弟は？
-- Do you have siblings?
-
 - どこまで話しましたか？（2人以上で話していたとき）
 -- Where were we?
 - どこまで話しましたか？（1人で話していたとき）
@@ -73,17 +34,11 @@ draft: true
 - この瞬間をずっと待っていました。
 - This is the moment I've been waiting for.
 
-- コーヒーを飲みながらおしゃべりした。
-- We had a chat over a cup of coffee.
-
 - もう遅いから。帰ったほうがいいかも。
 - It's getting late. Maybe we should go.
 
 - ボブが''旅行のお土産に''ペンをくれたよ。
 - Bob game me a pen from his trip.
-
-- あなたニンニク臭いわよ。
-- You reek of garlic.
 
 - ジャケットから（その）臭いがするよ。
 - I can smell it on your jacket.
@@ -106,7 +61,6 @@ draft: true
 - もう少しリスクの少ないものにしようかな・・・水泳とか。
 - I'd like to try something less risky... like swimming.
 
-
 - ま、時には負けることもあるさ。
 - Well, you can't win them all. （発音はウィネモーゥ）
 
@@ -119,21 +73,11 @@ draft: true
 - 私は勝ちます、何があっても！
 - I'm going to win, come what may!
 
-- 分かってはいるけど、とはいうもの、、、
-- I know but just the same...
-
-- からかってるのね！
-- You're pulling my leg!
-
-- 済ませてあるよ。
-- It's taken care of.
-
 - ちょっとブランデーが入ってるんだ。
 - It has a touch of brandy.
 
 - それって一体どんなもの？
 - What's that all about?
-
 
 - おお、それはいい考えだ。
 - Now, that's a thought.
@@ -141,15 +85,11 @@ draft: true
 - I'll get the first aid kit.
 - 救急箱を取ってくるわ。
 
-- こうしよう。
-- Tell you what.
-
 - 何てことありません。
 - It's nothing really.
 
 - ま、ダメでもともとだ。
 - Well, what have I got to lose?
-
 
 - 他の人がどう思っているか気にしすぎだよ。
 - You care too much what other people think.
@@ -191,21 +131,18 @@ draft: true
 - これは写真を撮らないと！
 - This is a photo opportunity.
 
+
 === org dic ===
 ひとつずつ
     singly, one by one
-大体は、ほとんどの場合
-    to a large extent
+
 ～とあまり違いはない
     S is not that different from Ving
     e.g. Sending text to a client is not that different from writing a file.
     (Java Network Programming)
 
-It's underway. = in progress
-That's what I want you to understand.
 
 ==== 使えるピーナッツ ====
-★ S+V の可能性があります。// Chanses are (that) S+V.
 〜の問題を解決する // fix an issue with ~
 倒産の瀬戸際にある // on the brink of bankruptcy
 〜のこととなると、// When it comes to ~,
@@ -238,7 +175,6 @@ That's what I want you to understand.
 あんな嫌な人たち // those mean people
 [A] するよりは [B] したほうがましです。// I would rather [B] than [A].
 どんなに時間がかかろうとも // No matter how long it takes
-医療費 // the medical expenses
 S+V といっても言い過ぎではない // It is not an exaggeration to say that S+V.
 人気が出る、大当たりする // take off
 どのような状況下でも // under any circumstances

@@ -150,43 +150,25 @@ draft: true
 * He got picked for the development team.（ビジネス英会話）
 
 
-but と however の違い (2015-01-25)
+未分類
 ----
-
-- **but** は後ろの文を強調したい。
-- **however** は前後の文どちらも重要。
-
-
-覚えておきたいフレーズ
-----
-
-{{< ex jp="隠さないで。" en="Don't hold back." >}}
-
-
-覚えておきたい単語
-----
-
-### 集会 (rally)
-
-**rally** は、もともとは「再び集める」「盛り返す」といった意味で、再起、反騰、大会などの意味でも使われます。
-
-{{< ex jp="３人の子供を連れて**集会**に来た家族に会いました。" en="We met this family who brought three children to the **rally**." cite="ABC ニュースシャワー" >}}
-
 
 ```
-～で同じことを実現できます
-You can accomplish the same with ~
-
 ～にも同じことが言えます
-Windows についても同じことが言えます。
-The same goes for Windows. Windows
-あなたも同じですよ。
-The same goes for you.
-わたしにとっても同じことが言えます。
-The same goes for me.
-The same is true for me.
-日本も同じです。
-The same in Japan.
+The same goes for ~
+
+  Windows についても同じことが言えます。
+  The same goes for Windows.
+
+  わたしにとっても同じことが言えます。
+  The same goes for me.
+  The same is true for me.
+
+  あなたも同じですよ。
+  The same goes for you.
+
+  日本も同じです。
+  The same in Japan.
 
 他のすべて
 everything else
@@ -219,20 +201,8 @@ if you do not want to be left behind
 あなたたちの批判やフィードバックを集める
 collect your critique and feedback
 
-やるべきこと
-what needs to be done
-
 〜を使って説明させてください。
 Let me explain with this ~.
-
-なるほど！
-That makes sense.
-
-ほとんどの場合
-most of the time
-
-気に入りましたか？
-Does it grab you? （心を掴んだか？という意味）
 
 それらは両方とも欠点があります。
 They both have drawbacks.

@@ -24,15 +24,6 @@ tags: ["シーン別"]
 {{% ex jp="接続の状態が悪いようです。" en="We seem to have a bad connection." %}}
 
 
-聞き直す
-----
-
-聞き直すときは Sorry が基本。Sorry?（上げ調子）だけでも OK。
-
-{{% ex en="Sorry, could you repeat that?" jp="すみません、もう一度言っていただけますか？" %}}
-{{% ex en="Sorry, I didn't quite catch that." jp="すみません、よく聞き取れなかったのですが。" %}}
-
-
 もっと具体的に聞く
 ----
 {{% ex en="What exactly is ~ ?" jp="〜とは具体的に何ですか？" %}}
