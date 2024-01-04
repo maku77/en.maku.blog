@@ -1,4 +1,5 @@
 export { ensureDir } from "https://deno.land/std@0.210.0/fs/mod.ts";
+export { join } from "https://deno.land/std@0.210.0/path/join.ts";
 
 export {
   Collection,

@@ -25,9 +25,20 @@ export class WordDb {
   }
 
   static async fetchWordsByGenre(genre: string): Promise<Word[]> {
-    return await this.coll
+    const words = await this.coll
       .find({ genres: { $in: [genre] } })
       .sort({ en: 1 })
       .toArray();
+    words.sort((a, b) => a.en.localeCompare(b.en));
+    return words;
+  }
+
+  // ジャンル設定されていない単語・フレーズをすべて取得
+  static async fetchWordsWithoutGenre(): Promise<Word[]> {
+    const words = await this.coll
+      .find({ genres: { $exists: false } })
+      .toArray();
+    words.sort((a, b) => a.en.localeCompare(b.en));
+    return words;
   }
 }

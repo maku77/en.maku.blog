@@ -1,55 +1,51 @@
-import { join } from "https://deno.land/std@0.210.0/path/join.ts";
-import { ensureDir } from "./deps.ts";
-
-import { Word, WordDb } from "./libs/wordDb.ts";
-
-const MARKDOWN_DIR = "../../content/words/";
-const MARKDOWN_TEMPLATE = `---
-title: "ジャンル別英単語集「<!-- GENRE -->」"
----
-
-<!-- CONTENT -->
-`;
+import { WordDb } from "./libs/wordDb.ts";
+import { makeContent, writeMarkdown } from "./libs/markdownUtils.ts";
 
 WordDb.fetchGenres().then((genres) => {
   for (const genre of genres) {
     console.log(`Genre: ${genre} ...`);
     WordDb.fetchWordsByGenre(genre)
-      .then((words) => generateMarkdownFile(genre, words))
-      .catch((err) => console.error(err));
+      .then((words) =>
+        writeMarkdown({
+          basename: genre,
+          title: `ジャンル別英単語集: ${makeGenreWithJp(genre)} (${
+            words.length
+          })`,
+          isDraft: words.length < 5,
+          content: makeContent(words),
+        })
+      )
+      .catch((e) => console.error(e));
   }
 });
 
-// 指定したディレクトリ内に指定したタイトルとコンテンツの Markdown ファイルを生成する関数
-async function generateMarkdownFile(genre: string, words: Word[]) {
-  await ensureDir(MARKDOWN_DIR); // ディレクトリが存在しない場合は作成
-  const filePath = join(MARKDOWN_DIR, `${genre}.md`);
-  const markdown = MARKDOWN_TEMPLATE.replace("<!-- GENRE -->", genre).replace(
-    "<!-- CONTENT -->",
-    makeContent(words)
-  );
-  Deno.writeTextFileSync(filePath, markdown);
-}
+WordDb.fetchWordsWithoutGenre()
+  .then((words) =>
+    writeMarkdown({
+      basename: "misc",
+      title: `ジャンル別英単語集: 【未分類】(${words.length})`,
+      isDraft: true,
+      content: makeContent(words),
+    })
+  )
+  .catch((e) => console.error(e));
 
-function makeContent(words: Word[]) {
-  let content = "";
-  for (const word of words) {
-    content += `{{< ex en="${word.en}" jp="${word.jp}"`;
-    if (word.note) {
-      content += ` note="${word.note}"`;
-    }
-    content += ">}}\n";
+const GENRES_JP: Record<string, string> = {
+  business: "ビジネス",
+  economics: "経済",
+  emotion: "感情",
+  finance: "金融",
+  medical: "医療",
+  occupation: "職業",
+  politics: "政治",
+  science: "科学",
+  work: "仕事",
+};
 
-    // 例文があれば出力
-    if (word.examples) {
-      for (const example of word.examples) {
-        content += `- ${example.en}`;
-        if (example.jp) {
-          content += ` / ${example.jp}`;
-        }
-        content += "\n\n";
-      }
-    }
+function makeGenreWithJp(genreEn: string): string {
+  // Search related japanese from GENRES_JP
+  if (genreEn in GENRES_JP) {
+    return `${GENRES_JP[genreEn]}（${genreEn}）`;
   }
-  return content;
+  return genreEn;
 }
