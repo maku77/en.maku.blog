@@ -1,10 +1,10 @@
-import { LongWithoutOverridesClass } from "https://deno.land/x/web_bson@v0.2.4/mod.ts";
 import { ensureDir, join } from "../deps.ts";
 import { Word } from "./wordDb.ts";
 
 const MARKDOWN_DIR = "../../content/words/";
 const MARKDOWN_TEMPLATE = `---
 title: "<!-- TITLE -->"
+linkTitle: "<!-- LINK_TITLE -->"
 draft: "<!-- DRAFT -->"
 ---
 
@@ -14,6 +14,7 @@ draft: "<!-- DRAFT -->"
 export type WriteMarkdownParams = {
   basename: string;
   title: string;
+  linkTitle: string;
   isDraft: boolean;
   content: string;
 };
@@ -22,6 +23,7 @@ export type WriteMarkdownParams = {
 export async function writeMarkdown({
   basename,
   title,
+  linkTitle,
   isDraft,
   content,
 }: WriteMarkdownParams) {
@@ -29,6 +31,7 @@ export async function writeMarkdown({
   const filePath = join(MARKDOWN_DIR, `${basename}.md`);
   console.log(filePath);
   const markdown = MARKDOWN_TEMPLATE.replace("<!-- TITLE -->", title)
+    .replace("<!-- LINK_TITLE -->", linkTitle)
     .replace("<!-- DRAFT -->", isDraft ? "true" : "false")
     .replace("<!-- CONTENT -->", content);
   Deno.writeTextFileSync(filePath, markdown);
