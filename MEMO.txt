@@ -1,38 +1,3 @@
-! Sentence
-これを日本へ送ると、料金はいくらかかりますか？
-What is the charge if I have it delevered to Japan?
-
-この包みは大きすぎてポストには入らないよ。
-This package is too big to fit in the mailbox.
-
-いつでもお電話ください。フリーダイアルです。
-Just call us any time. It is a toll-free number.
-
-水族館はここから歩いて10分です。
-The aquarium is a ten-minute walk from here.
-
-この会議を始める前に、皆さんに誰が誰なのかを知ってもらいたいと思います。ですから、知り合いになることから始めましょう。
-Before we start this meeting, I'd like to make sure that everyone knows who is who. So let's start by getting acquainted.
-
-小さなことでくよくよしないで。
-Don't sweat the small stuff.
-
-お先真っ暗。
-There's no light at the end of the tunnel.
-
-知らない方がいいわよ。
-You're better off not knowing.
-
-彼と腹を割って話したんだ。
-I had a heart-to-heart talk with him.
-
-
-! Word
-忘れられない
-unforgettable
-これって奇妙で、忘れられない映画だわ。
-This is a strange, unforgettable movie.
-
 -- に分類される
 fall into --
 Most of the applications you create in Android will fall into one of the following categories:
@@ -289,4 +254,87 @@ from 英会話なるほど納得！メモ・ランダム
 [2009-01-31]
 - What cha gonna do?
 -- What are you going to do? （どうするの？）
+
+
+2006-07-26 (Wed) 10:31:33
+200504-杉田敏のビジネス英語クリニックvol.5
+
+	困っている人を助けるときは、
+	May I help you?
+	よりも
+	How may I help you?
+	の方が本当に助ける気持ちがありそうで丁寧な感じがする。
+
+	強制ではありませんよ
+	It is not compulsory.
+	 ||
+	-- することは強制ではありません（自由です）
+	be under no obligation to --
+
+	例：従業員は持ち株会 (ESOP) に入る義務はありません。
+		Employees are under no obligation to join the employee stock ownership plan.
+
+	あなたが自由に決めていいですよ。
+	You can choose for yourself.
+
+	（食事のとき）ご自由におかわりしてください。
+	Help yourself.
+
+	（何か貸してあげたとき）ご自由に使ってください。
+	Be my guest.
+
+	私たちは多くを学びました。
+	We learned a great deal.
+
+-------------------------------------------------------------------
+2006-07-21 (Fri) 10:50:32
+200503-杉田敏のビジネス英語クリニック第4回
+
+	昼食をとる
+		○ have lunch
+		× have a lunch
+
+	breakfast, lunch は動詞としても使うが、dinner は名詞のみ。
+	
+	have lunch, take lunch は普通に昼ごはんを食べるというニュアンスだが、
+	Let's do lunch. というと、「しゃれた店でゆっくり昼食をとる」というニュアンスが出る。
+	
+	「来週の金曜日」というのを伝えたい場合、next Friday というと、
+	今週の金曜日なのか来週の金曜日なのかわかりにくいので、
+	Friday next week というと確実に伝わる。
+
+-------------------------------------------------------------------
+2006-07-20 (Thu) 10:18:29
+200505-杉田敏のビジネス英語クリニックvol.6
+
+	身に着けているものを褒める
+		Nice dress! It suits you. （素敵なドレスですね。よくお似合いです。）
+		I love it. は男性が使うと違和感があるらしい。
+
+		I'm just curious how it works. Have you ever tried it?
+		使い心地に興味があるんだけど、試した？
+
+-------------------------------------------------------------------
+2006-06-23 (Fri) 18:51:11
+200504-保存版_これでOK！電話・Eメールの英語
+
+	・電話応対用のフローチャートを書いておく。
+	・詳細を E-mail で対処する場合。
+		Could you please send me the details by e-mail or fax?
+		I am sending you the details by e-mail.
+	・失礼な印象を与えないようなフレーズを覚えておく（基本は Could で始める）。
+	・脱出法を用意しておく。
+		I will get someone who speaks English.
+	・よく理解できなかった場合は、I don't understand. ではなく、
+	  I understand that ... と自分の分かっている範囲で言い換え、
+	  Is it OK? Right? で確認する。
+	・欧米では相手の話を遮って発言するのも失礼ではない。
+		割り込むタイミングは、When the speaker pauses.
+		割り込みのフレーズは、
+			Could I just say something?
+			Could I ask a quick question?
+		話についていけなくなった場合は、
+			I'm not following, could you go back a little?
+	・No を伝える効果的な方法は、「Sandwich Pattern」。
+	  最初に Positive な内容で始め、次に No を伝え、最後に再び Positive な内容で締めくくる。
 
