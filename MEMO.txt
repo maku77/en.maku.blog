@@ -1,9 +1,6 @@
--- に分類される
-fall into --
-Most of the applications you create in Android will fall into one of the following categories:
+- 2009-02-08: September 8 の 8 は eighth と発音する。
+- 2008-03-18: other の発音。舌を両端の歯につけたまま、中央だけ口の中へ引っ込めながら「アー」というと r っぽい発音になる。
 
-着信拒否、通話スクリーニング
-call screening
 
 一時的にやむ、一時的に止まる
 intermittent
