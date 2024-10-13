@@ -14,7 +14,5 @@ __hear__ と __listen to__ には次のような違いがあります。
 {{% ex jp="聞いてるの？" en="Do you hear me?" note="これは目上の人が「ちゃんと聞け！」という感じがあるのであまり使わない方がよい" %}}
 {{% ex jp="聞いてください。" en="Listen to me." %}}
 
-{{% reference %}}
-- [see と look at の違い](/p/fg7o34g/)
-{{% /reference %}}
+- （参考）[see と look at の違い](/p/fg7o34g/)
 

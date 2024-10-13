@@ -15,7 +15,5 @@ __see__ と __look at__ には次のような違いがあります。
 
 両方とも「見る」と訳すと混乱してしまいますが、see は「見えている」、look at は「見る」というように訳せば間違えることはないと思います。
 
-{{% reference %}}
-- [hear と listen to の違い](/p/73cuipx/)
-{{% /reference %}}
+- （参考）[hear と listen to の違い](/p/73cuipx/)
 
