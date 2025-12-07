@@ -4,6 +4,7 @@ enableRobotsTXT = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 languageCode = "ja-jp"
+timeZone = "Asia/Tokyo"
 title = "まくまく英語ノート"
 # googleAnalytics = "UA-63069513-3"
 googleAnalytics = "G-3LHP8YJWGJ"

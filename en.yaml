@@ -1,0 +1,55 @@
+-
+  en: through several methods
+  ja: 様々な方法を通じて、いくつかの方法で
+-
+  en: excel with ~
+  ja: 〜に優れている、〜に優れている
+  ex:
+    - en: She excels in mathematics.
+      ja: 彼女は数学に優れている。
+    - en: The software excels with data processing tasks.
+      ja: そのソフトウェアはデータ処理タスクで優れた性能を発揮します。
+-
+  en: decision-useful information
+  ja: 意思決定に有用な情報
+-
+  en: financial statements
+  ja: 財務諸表
+  tags: [finance]
+-
+  en: Auditor's report
+  ja: 監査報告書
+  tags: [finance]
+-
+  en: auditors
+  ja: 監査人
+  tags: [finance]
+-
+  en: qualitative characteristics
+  ja: 質的特性
+  tags: [finance]
+-
+  en: faithful representation
+  ja: 忠実な表現
+-
+  en: usefulness
+  ja: 有用性
+-
+  en: neutrality
+  ja: 中立性
+-
+  ja: 完全性
+  en: completeness
+-
+  ja: 適時性
+  en: timeliness
+-
+  ja: 比較可能性
+  en: comparability
+-
+  ja: 検証可能性
+  en: verifiability
+-
+  ja: 明瞭性、理解可能性
+  en: understandability
+
